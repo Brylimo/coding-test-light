@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P12891_DNA_비밀번호">
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P11003_최소값_찾기">
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,23 +29,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="coding-test-light" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P11003_최소값_찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P11003_최소값_찾기" />
       <module name="coding-test-light" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2018_수들의_합5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P2018_수들의_합5" />
-      <module name="coding-test-light" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.P11003_최소값_찾기" />
         <item itemvalue="Application.P12891_DNA_비밀번호" />
         <item itemvalue="Application.P1929_소수_구하기" />
         <item itemvalue="Application.P1940_주몽" />
-        <item itemvalue="Application.P2018_수들의_합5" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730291818128</updated>
       <workItem from="1730291819191" duration="75000" />
-      <workItem from="1730292191510" duration="14307000" />
+      <workItem from="1730292191510" duration="21669000" />
+      <workItem from="1730598751913" duration="6019000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730427979450</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="solved P11003_최소값_찾기">
+      <created>1730438776095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730438776095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +158,8 @@
     <MESSAGE value="solved P2018_수들의_합5" />
     <MESSAGE value="solved P1940_주몽" />
     <MESSAGE value="solved P12891_DNA_비밀번호" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P12891_DNA_비밀번호" />
+    <MESSAGE value="solved P11003_최소값_찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P11003_최소값_찾기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -161,7 +170,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/P11003_최소값_찾기.java</url>
           <line>14</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
