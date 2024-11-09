@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +43,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.CodeTree_자율주행_자동차">
+    <configuration name="CodeTree_자율주행_자동차" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeTree_자율주행_자동차" />
       <module name="coding-test-light" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,7 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CodeTree_자율주행_자동차" />
         <item itemvalue="Application.P11003_최소값_찾기" />
         <item itemvalue="Application.P12891_DNA_비밀번호" />
         <item itemvalue="Application.P1929_소수_구하기" />
@@ -101,7 +100,7 @@
       <workItem from="1730291819191" duration="75000" />
       <workItem from="1730292191510" duration="21669000" />
       <workItem from="1730598751913" duration="7109000" />
-      <workItem from="1731040324322" duration="2431000" />
+      <workItem from="1731040324322" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730615243497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="solved CodeTree_자율주행_자동차">
+      <created>1731043085964</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731043085964</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +175,8 @@
     <MESSAGE value="solved P12891_DNA_비밀번호" />
     <MESSAGE value="solved P11003_최소값_찾기" />
     <MESSAGE value="solved P14466_소가_길을_건너간_이유6" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P14466_소가_길을_건너간_이유6" />
+    <MESSAGE value="solved CodeTree_자율주행_자동차" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved CodeTree_자율주행_자동차" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -185,12 +192,12 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/CodeTree_자율주행_자동차.java</url>
           <line>51</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/CodeTree_자율주행_자동차.java</url>
           <line>20</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
