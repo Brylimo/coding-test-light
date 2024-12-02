@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P43165_타겟_넘버">
-      <change afterPath="$PROJECT_DIR$/src/P3078_좋은_친구.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P3078_좋은_친구">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P3078_좋은_친구">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CodeTree_자율주행_자동차" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree_자율주행_자동차" />
       <module name="coding-test-light" />
@@ -62,6 +61,13 @@
     </configuration>
     <configuration name="CodeTree_불안한_무빙워크" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree_불안한_무빙워크" />
+      <module name="coding-test-light" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="coding-test-light" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.P3078_좋은_친구" />
         <item itemvalue="Application.CodeTree_자율주행_자동차" />
         <item itemvalue="Application.P11003_최소값_찾기" />
@@ -114,7 +121,9 @@
       <workItem from="1731495845898" duration="6437000" />
       <workItem from="1731843821736" duration="734000" />
       <workItem from="1732098348003" duration="5660000" />
-      <workItem from="1732347484164" duration="4207000" />
+      <workItem from="1732347484164" duration="4260000" />
+      <workItem from="1732413731965" duration="1236000" />
+      <workItem from="1733122698117" duration="1702000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -193,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731591624388</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="solved P3078_좋은_친구">
+      <created>1732352077245</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732352077245</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +238,8 @@
     <MESSAGE value="solved CodeTree_토스트_계란틀" />
     <MESSAGE value="solved CodeTree_불안한_무빙워크" />
     <MESSAGE value="solved P43165_타겟_넘버" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P43165_타겟_넘버" />
+    <MESSAGE value="solved P3078_좋은_친구" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P3078_좋은_친구" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
