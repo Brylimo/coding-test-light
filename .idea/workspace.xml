@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P15961_회전_초밥">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P43162_네트워크" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +121,7 @@
       <workItem from="1732347484164" duration="4260000" />
       <workItem from="1732413731965" duration="1236000" />
       <workItem from="1733122698117" duration="2026000" />
+      <workItem from="1733554668175" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -215,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733124739913</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="solved P43162_네트워크">
+      <created>1733554762401</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733554762401</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +252,8 @@
     <MESSAGE value="solved P43165_타겟_넘버" />
     <MESSAGE value="solved P3078_좋은_친구" />
     <MESSAGE value="solved P15961_회전_초밥" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P15961_회전_초밥" />
+    <MESSAGE value="solved P43162_네트워크" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P43162_네트워크" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
