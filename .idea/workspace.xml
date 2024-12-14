@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P42578_의상">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +125,7 @@
       <workItem from="1733122698117" duration="2026000" />
       <workItem from="1733554668175" duration="706000" />
       <workItem from="1733833428992" duration="697000" />
+      <workItem from="1734006678536" duration="1549000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -231,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733833518837</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="solved P42578_의상">
+      <created>1734006764964</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734006764964</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +272,8 @@
     <MESSAGE value="solved P15961_회전_초밥" />
     <MESSAGE value="solved P43162_네트워크" />
     <MESSAGE value="solved P42577_전화번호_목록" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P42577_전화번호_목록" />
+    <MESSAGE value="solved P42578_의상" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P42578_의상" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
