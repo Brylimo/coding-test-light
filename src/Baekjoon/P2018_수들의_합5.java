@@ -1,3 +1,5 @@
+package Baekjoon;
+
 import java.util.*;
 
 public class P2018_수들의_합5 {

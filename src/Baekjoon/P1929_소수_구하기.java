@@ -1,3 +1,5 @@
+package Baekjoon;
+
 import java.util.*;
 
 public class P1929_소수_구하기 {
