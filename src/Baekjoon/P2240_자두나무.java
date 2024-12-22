@@ -4,47 +4,70 @@ import java.io.*;
 
 public class P2240_자두나무 {
     static final int INT_MIN = Integer.MIN_VALUE;
+    static int t, w; // t초, 최대 w만큼 움직임
+    static int[] orders;
+    static int[][][] dp;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st;
 
-        int t = Integer.parseInt(st.nextToken());
-        int w = Integer.parseInt(st.nextToken());
+        st = new StringTokenizer(br.readLine());
+        t = Integer.parseInt(st.nextToken());
+        w = Integer.parseInt(st.nextToken());
 
-        int[] result = new int[t + 1];
+        orders = new int[t + 1];
+        dp = new int[t + 1][w + 1][3];
+
+        // 초기화
         for (int i = 1; i <= t; i++) {
-            result[i] = Integer.parseInt(br.readLine());
-        }
-        result[0] = result[1];
-
-        int[][][] dp = new int[t + 1][w][2];
-
-        for (int i = 1; i <= t; i++) {
-            for (int j = 0; j < w; j++) {
+            for (int j = 0; j <= w; j++) {
                 Arrays.fill(dp[i][j], INT_MIN);
             }
         }
 
-        for (int i = 1; i < t; i++) {
-            for (int j = 0; j < w; j++) {
-                if (result[i - 1] != result[i]) {
-                    if (j > 0 && dp[i - 1][j - 1][result[i - 1] - 1] >= 0) {
-                        dp[i][j][result[i] - 1] = dp[i - 1][j - 1][result[i - 1] - 1] + 1; // 이동
+        for (int i = 1; i <= t; i++) {
+            orders[i] = Integer.parseInt(br.readLine());
+        }
+
+        // 1초일 때
+        if (orders[1] == 1) {
+            dp[1][0][1] = 1;
+            dp[1][1][2] = 0;
+        } else {
+            dp[1][0][1] = 0;
+            dp[1][1][2] = 1;
+        }
+
+        for (int i = 2; i <= t; i++) {
+            int target = orders[i];
+
+            for (int j = 0; j <= w; j++) {
+                for (int k = 1; k <= 2; k++) {
+                    if (dp[i - 1][j][k] != INT_MIN && target == k) { // 움직이지 않고 같을 경우
+                        dp[i][j][k] = Math.max(dp[i][j][k], dp[i - 1][j][k] + 1);
                     }
-                    if (dp[i - 1][j][result[i - 1] - 1] >= 0)
-                        dp[i][j][result[i - 1] - 1] = dp[i - 1][j][result[i - 1] - 1];
-                } else {
-                    if (dp[i - 1][j][result[i] - 1] >= 0)
-                        dp[i][j][result[i] - 1] = dp[i - 1][j][result[i] - 1] + 1;
-                    if (dp[i - 1][j][result[i] - 1] >= 0)
-                        dp[i][j][1-(result[i] - 1)] = dp[i - 1][j][result[i] - 1];
+
+                    if (dp[i - 1][j][3 - k] != INT_MIN && target == k) { // 움직이지 않고 다를 경우
+                        dp[i][j][3 - k] = Math.max(dp[i][j][k], dp[i - 1][j][3 - k]);
+                    }
+
+                    if (j > 0 && dp[i - 1][j - 1][3 - k] != INT_MIN && target == k) { // 움직여서 같게 되는 경우
+                        dp[i][j][k] = Math.max(dp[i][j][k], dp[i - 1][j - 1][3 - k] + 1);
+                    }
+
+                    if (j > 0 && dp[i - 1][j - 1][k] != INT_MIN && target == k) { // 움직여서 다르게 되는 경우
+                        dp[i][j][3 - k] = Math.max(dp[i][j][3 - k], dp[i - 1][j - 1][k]);
+                    }
                 }
             }
         }
 
         int ans = 0;
-        for (int i = 0; i < w; i++) {
-            ans = Math.max(Math.max(ans, dp[t][i][0]), dp[t][i][1]);
+        for (int j = 0; j <= w; j++) {
+            for (int k = 1; k <= 2; k++) {
+                ans = Math.max(ans, dp[t][j][k]);
+            }
         }
 
         System.out.println(ans);
