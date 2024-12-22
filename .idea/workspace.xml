@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P11780_플로이드_2">
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P7281_야구공">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P7281_야구공.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P7281_야구공.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P1351_무한_수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P1351_무한_수열.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P7281_야구공">
+  <component name="RunManager" selected="Application.P1351_무한_수열">
     <configuration name="CodeTree_불안한_무빙워크" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree_불안한_무빙워크" />
       <module name="coding-test-light" />
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2240_자두나무" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2240_자두나무" />
+    <configuration name="P1351_무한_수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1351_무한_수열" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2493_탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2493_탑" />
+    <configuration name="P2240_자두나무" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2240_자두나무" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1351_무한_수열" />
         <item itemvalue="Application.P7281_야구공" />
         <item itemvalue="Application.P11780_플로이드_2" />
         <item itemvalue="Application.P2240_자두나무" />
         <item itemvalue="Application.P11000_강의실_배정" />
-        <item itemvalue="Application.P2493_탑" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1734006678536" duration="1549000" />
       <workItem from="1734174838953" duration="246000" />
       <workItem from="1734676960413" duration="15303000" />
-      <workItem from="1734752111846" duration="26897000" />
+      <workItem from="1734752111846" duration="30517000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734840995171</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="solved P7281_야구공">
+      <created>1734846019419</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1734846019419</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +347,8 @@
     <MESSAGE value="solved P2493_탑" />
     <MESSAGE value="solved P11000_강의실_배정" />
     <MESSAGE value="solved P11780_플로이드_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P11780_플로이드_2" />
+    <MESSAGE value="solved P7281_야구공" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P7281_야구공" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
