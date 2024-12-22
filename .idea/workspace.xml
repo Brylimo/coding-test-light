@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P2225_합분해">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P2240_자두나무.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P2240_자두나무.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P2240_자두나무">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2003_수들의_합2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P2240_자두나무">
+  <component name="RunManager" selected="Application.P2003_수들의_합2">
     <configuration name="CodeTree_불안한_무빙워크" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree_불안한_무빙워크" />
       <module name="coding-test-light" />
@@ -52,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11780_플로이드_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11780_플로이드_2" />
+    <configuration name="P1351_무한_수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1351_무한_수열" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1351_무한_수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1351_무한_수열" />
+    <configuration name="P2003_수들의_합2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2003_수들의_합2" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2003_수들의_합2" />
         <item itemvalue="Application.P2240_자두나무" />
         <item itemvalue="Application.P2225_합분해" />
         <item itemvalue="Application.P1351_무한_수열" />
         <item itemvalue="Application.P7281_야구공" />
-        <item itemvalue="Application.P11780_플로이드_2" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <workItem from="1734006678536" duration="1549000" />
       <workItem from="1734174838953" duration="246000" />
       <workItem from="1734676960413" duration="15303000" />
-      <workItem from="1734752111846" duration="37352000" />
+      <workItem from="1734752111846" duration="39599000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -322,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734855598106</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="solved P2240_자두나무">
+      <created>1734864571320</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1734864571320</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +370,8 @@
     <MESSAGE value="solved P7281_야구공" />
     <MESSAGE value="solved P1351_무한_수열" />
     <MESSAGE value="solved P2225_합분해" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P2225_합분해" />
+    <MESSAGE value="solved P2240_자두나무" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P2240_자두나무" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
