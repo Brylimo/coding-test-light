@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P2240_자두나무">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2003_수들의_합2.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P2003_수들의_합2">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P20922_겹치는_건_싫어.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P2003_수들의_합2">
+  <component name="RunManager" selected="Application.P20922_겹치는_건_싫어">
     <configuration name="CodeTree_불안한_무빙워크" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree_불안한_무빙워크" />
       <module name="coding-test-light" />
@@ -51,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1351_무한_수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1351_무한_수열" />
+    <configuration name="P17244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P17244" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -66,6 +67,19 @@
     </configuration>
     <configuration name="P2003_수들의_합2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P2003_수들의_합2" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P20922_겹치는_건_싫어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P20922_겹치는_건_싫어" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -103,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7281_야구공" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P7281_야구공" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P20922_겹치는_건_싫어" />
+        <item itemvalue="Application.P17244" />
         <item itemvalue="Application.P2003_수들의_합2" />
         <item itemvalue="Application.P2240_자두나무" />
         <item itemvalue="Application.P2225_합분해" />
-        <item itemvalue="Application.P1351_무한_수열" />
-        <item itemvalue="Application.P7281_야구공" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,8 @@
       <workItem from="1734006678536" duration="1549000" />
       <workItem from="1734174838953" duration="246000" />
       <workItem from="1734676960413" duration="15303000" />
-      <workItem from="1734752111846" duration="39599000" />
+      <workItem from="1734752111846" duration="47689000" />
+      <workItem from="1735019250217" duration="2712000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -328,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734864571320</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="solved P2003_수들의_합2">
+      <created>1734868473583</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1734868473583</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +355,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
     <MESSAGE value="solved P2018_수들의_합5" />
     <MESSAGE value="solved P1940_주몽" />
     <MESSAGE value="solved P12891_DNA_비밀번호" />
@@ -371,7 +379,8 @@
     <MESSAGE value="solved P1351_무한_수열" />
     <MESSAGE value="solved P2225_합분해" />
     <MESSAGE value="solved P2240_자두나무" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P2240_자두나무" />
+    <MESSAGE value="solved P2003_수들의_합2" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P2003_수들의_합2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,6 +424,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P3078_좋은_친구.java</url>
           <line>40</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P20922_겹치는_건_싫어.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
