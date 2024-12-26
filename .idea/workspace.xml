@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P22862_가장_긴_짝수_연속한_부분_수열_라지">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1011_Fly_me_to_the_Alpha_Centauri.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P1011_Fly_me_to_the_Alpha_Centauri">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11729_하노이_탑_이동_순서.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14002_가장_긴_증가하는_부분수열_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +45,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P1011_Fly_me_to_the_Alpha_Centauri">
+  <component name="RunManager" selected="Application.P11729_하노이_탑_이동_순서">
     <configuration name="P1011_Fly_me_to_the_Alpha_Centauri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1011_Fly_me_to_the_Alpha_Centauri" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P11729_하노이_탑_이동_순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11729_하노이_탑_이동_순서" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -84,19 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2230_수_고르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2230_수_고르기" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P22862_가장_긴_짝수_연속한_부분_수열_라지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P22862_가장_긴_짝수_연속한_부분_수열_라지" />
       <module name="coding-test-light" />
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P11729_하노이_탑_이동_순서" />
         <item itemvalue="Application.P1011_Fly_me_to_the_Alpha_Centauri" />
         <item itemvalue="Application.P22862_가장_긴_짝수_연속한_부분_수열_라지" />
         <item itemvalue="Application.P15683_감시" />
         <item itemvalue="Application.P17404_RGB거리_2" />
-        <item itemvalue="Application.P2230_수_고르기" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <workItem from="1734752111846" duration="47689000" />
       <workItem from="1735019250217" duration="15867000" />
       <workItem from="1735103927117" duration="4710000" />
-      <workItem from="1735175102338" duration="9589000" />
+      <workItem from="1735175102338" duration="13398000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -381,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735182437627</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="solved P1011_Fly_me_to_the_Alpha_Centauri">
+      <created>1735190154660</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1735190154660</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved CodeTree_토스트_계란틀" />
     <MESSAGE value="solved CodeTree_불안한_무빙워크" />
     <MESSAGE value="solved P43165_타겟_넘버" />
     <MESSAGE value="solved P3078_좋은_친구" />
@@ -424,7 +431,8 @@
     <MESSAGE value="solved P17404_RGB거리_2" />
     <MESSAGE value="P15683_감시" />
     <MESSAGE value="solved P22862_가장_긴_짝수_연속한_부분_수열_라지" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved P22862_가장_긴_짝수_연속한_부분_수열_라지" />
+    <MESSAGE value="solved P1011_Fly_me_to_the_Alpha_Centauri" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P1011_Fly_me_to_the_Alpha_Centauri" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
