@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P15683_감시">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P22862_가장_긴_짝수_연속한_부분_수열_라지.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="solved P22862_가장_긴_짝수_연속한_부분_수열_라지">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1011_Fly_me_to_the_Alpha_Centauri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P22862_가장_긴_짝수_연속한_부분_수열_라지">
-    <configuration name="P15683_감시" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P15683_감시" />
+  <component name="RunManager" selected="Application.P1011_Fly_me_to_the_Alpha_Centauri">
+    <configuration name="P1011_Fly_me_to_the_Alpha_Centauri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1011_Fly_me_to_the_Alpha_Centauri" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P16987_계란으로_계란치기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P16987_계란으로_계란치기" />
+    <configuration name="P15683_감시" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P15683_감시" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1011_Fly_me_to_the_Alpha_Centauri" />
         <item itemvalue="Application.P22862_가장_긴_짝수_연속한_부분_수열_라지" />
         <item itemvalue="Application.P15683_감시" />
         <item itemvalue="Application.P17404_RGB거리_2" />
         <item itemvalue="Application.P2230_수_고르기" />
-        <item itemvalue="Application.P16987_계란으로_계란치기" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1734752111846" duration="47689000" />
       <workItem from="1735019250217" duration="15867000" />
       <workItem from="1735103927117" duration="4710000" />
-      <workItem from="1735175102338" duration="6794000" />
+      <workItem from="1735175102338" duration="9589000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -374,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735178997720</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="solved P22862_가장_긴_짝수_연속한_부분_수열_라지">
+      <created>1735182437627</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1735182437627</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved CodeTree_병원_거리_최소화하기" />
     <MESSAGE value="solved CodeTree_토스트_계란틀" />
     <MESSAGE value="solved CodeTree_불안한_무빙워크" />
     <MESSAGE value="solved P43165_타겟_넘버" />
@@ -417,7 +423,8 @@
     <MESSAGE value="solved P2230_수_고르기" />
     <MESSAGE value="solved P17404_RGB거리_2" />
     <MESSAGE value="P15683_감시" />
-    <option name="LAST_COMMIT_MESSAGE" value="P15683_감시" />
+    <MESSAGE value="solved P22862_가장_긴_짝수_연속한_부분_수열_라지" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved P22862_가장_긴_짝수_연속한_부분_수열_라지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -481,6 +488,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P15683_감시.java</url>
           <line>92</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P1011_Fly_me_to_the_Alpha_Centauri.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
