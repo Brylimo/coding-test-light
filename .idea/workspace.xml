@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2293_동전1.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2293_동전1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P11003_최소값_찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P11003_최소값_찾기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P2293_동전1">
-    <configuration name="P1011_Fly_me_to_the_Alpha_Centauri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1011_Fly_me_to_the_Alpha_Centauri" />
+  <component name="RunManager" selected="Application.P11003_최소값_찾기">
+    <configuration name="P11003_최솟값_찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11003_최솟값_찾기" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P11003_최소값_찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11003_최소값_찾기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -84,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P22862_가장_긴_짝수_연속한_부분_수열_라지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P22862_가장_긴_짝수_연속한_부분_수열_라지" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P2293_동전1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P2293_동전1" />
       <module name="coding-test-light" />
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P11003_최소값_찾기" />
+        <item itemvalue="Application.P11003_최솟값_찾기" />
         <item itemvalue="Application.P2293_동전1" />
         <item itemvalue="Application.P18808_스티커_붙이기" />
         <item itemvalue="Application.P11729_하노이_탑_이동_순서" />
-        <item itemvalue="Application.P1011_Fly_me_to_the_Alpha_Centauri" />
-        <item itemvalue="Application.P22862_가장_긴_짝수_연속한_부분_수열_라지" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,9 @@
       <workItem from="1735175102338" duration="13939000" />
       <workItem from="1735264414359" duration="4592000" />
       <workItem from="1735649401754" duration="3934000" />
-      <workItem from="1735813671387" duration="318000" />
+      <workItem from="1735813671387" duration="1306000" />
+      <workItem from="1735910179244" duration="226000" />
+      <workItem from="1736053059533" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -405,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735268374251</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="P2293_동전1">
+      <created>1735814373817</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1735814373817</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved P3078_좋은_친구" />
     <MESSAGE value="solved P15961_회전_초밥" />
     <MESSAGE value="solved P43162_네트워크" />
     <MESSAGE value="solved P42577_전화번호_목록" />
@@ -448,7 +456,8 @@
     <MESSAGE value="solved P1011_Fly_me_to_the_Alpha_Centauri" />
     <MESSAGE value="P11729_하노이_탑_이동_순서" />
     <MESSAGE value="P18808_스티커_붙이기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P18808_스티커_붙이기" />
+    <MESSAGE value="P2293_동전1" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2293_동전1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -457,11 +466,6 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P12891_DNA_비밀번호.java</url>
           <line>34</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Baekjoon/P11003_최소값_찾기.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CodeTree/CodeTree_자율주행_자동차.java</url>

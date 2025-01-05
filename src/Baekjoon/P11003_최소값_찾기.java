@@ -6,7 +6,7 @@ import java.io.*;
 public class P11003_최소값_찾기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringBuilder sb = new StringBuilder();
 
         StringTokenizer st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
@@ -24,10 +24,9 @@ public class P11003_최소값_찾기 {
             if (mydeque.getFirst().index <= i - l) {
                 mydeque.removeFirst();
             }
-            bw.write(mydeque.getFirst().value + " ");
+            sb.append(mydeque.getFirst().value).append(" ");
         }
-        bw.flush();
-        bw.close();
+        System.out.println(sb);
     }
 
     static class Node {
