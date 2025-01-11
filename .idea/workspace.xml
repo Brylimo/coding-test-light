@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P17070_파이프_옮기기_1.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P17070_파이프_옮기기_1">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P8980_택배.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/sdaf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P17070_파이프_옮기기_1">
+  <component name="RunManager" selected="Application.P8980_택배">
     <configuration name="P11003_최솟값_찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P11003_최솟값_찾기" />
       <module name="coding-test-light" />
@@ -71,34 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11729_하노이_탑_이동_순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11729_하노이_탑_이동_순서" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P17070_파이프_옮기기_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P17070_파이프_옮기기_1" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P18808_스티커_붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P18808_스티커_붙이기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +98,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P8980_택배" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P8980_택배" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sdaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.sdaf" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P8980_택배" />
+        <item itemvalue="Application.sdaf" />
         <item itemvalue="Application.P17070_파이프_옮기기_1" />
         <item itemvalue="Application.P11003_최솟값_찾기" />
         <item itemvalue="Application.P2293_동전1" />
-        <item itemvalue="Application.P18808_스티커_붙이기" />
-        <item itemvalue="Application.P11729_하노이_탑_이동_순서" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,8 @@
       <workItem from="1736053059533" duration="4766000" />
       <workItem from="1736072040472" duration="272000" />
       <workItem from="1736072465318" duration="220000" />
-      <workItem from="1736331251557" duration="5193000" />
+      <workItem from="1736331251557" duration="5441000" />
+      <workItem from="1736420229243" duration="14616000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -437,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736055701076</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="P17070_파이프_옮기기_1">
+      <created>1736337322310</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1736337322310</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +464,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved P43162_네트워크" />
     <MESSAGE value="solved P42577_전화번호_목록" />
     <MESSAGE value="solved P42578_의상" />
     <MESSAGE value="solved P42586_기능개발" />
@@ -480,7 +488,8 @@
     <MESSAGE value="P18808_스티커_붙이기" />
     <MESSAGE value="P2293_동전1" />
     <MESSAGE value="P11003_최소값_찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P11003_최소값_찾기" />
+    <MESSAGE value="P17070_파이프_옮기기_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="P17070_파이프_옮기기_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
