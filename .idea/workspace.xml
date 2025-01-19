@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P17270_연예인은_힘들어">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P5568_카드_놓기.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5568_카드_놓기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1987_알파벳.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P5568_카드_놓기">
+  <component name="RunManager" selected="Application.P1987_알파벳">
     <configuration name="P1062_가르침" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1062_가르침" />
       <module name="coding-test-light" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1865_웜홀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1865_웜홀" />
+    <configuration name="P1987_알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1987_알파벳" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1987_알파벳" />
         <item itemvalue="Application.P5568_카드_놓기" />
         <item itemvalue="Application.P17270_연예인은_힘들어" />
         <item itemvalue="Application.P1062_가르침" />
         <item itemvalue="Application.P5052_전화번호_목록" />
-        <item itemvalue="Application.P1865_웜홀" />
       </list>
     </recent_temporary>
   </component>
@@ -159,14 +159,7 @@
       <workItem from="1736331251557" duration="5441000" />
       <workItem from="1736420229243" duration="21092000" />
       <workItem from="1736648380992" duration="37625000" />
-      <workItem from="1737111241866" duration="38085000" />
-    </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1730292374631</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1730292374631</updated>
+      <workItem from="1737111241866" duration="43177000" />
     </task>
     <task id="LOCAL-00002" summary="solved P2018_수들의_합5">
       <created>1730293571576</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737268238479</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="P5568_카드_놓기">
+      <created>1737269190797</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1737269190797</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved P2240_자두나무" />
     <MESSAGE value="solved P2003_수들의_합2" />
     <MESSAGE value="solved P20922_겹치는_건_싫어" />
     <MESSAGE value="solved P14938_서강그라운드" />
@@ -547,7 +546,8 @@
     <MESSAGE value="P5052_전화번호_목록" />
     <MESSAGE value="P1062_가르침" />
     <MESSAGE value="P17270_연예인은_힘들어" />
-    <option name="LAST_COMMIT_MESSAGE" value="P17270_연예인은_힘들어" />
+    <MESSAGE value="P5568_카드_놓기" />
+    <option name="LAST_COMMIT_MESSAGE" value="P5568_카드_놓기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
