@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5052_전화번호_목록">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1062_가르침.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1062_가르침">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P17270_연예인은_힘들어.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P1062_가르침">
+  <component name="RunManager" selected="Application.P17270_연예인은_힘들어">
     <configuration name="P1062_가르침" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1062_가르침" />
       <module name="coding-test-light" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1253_좋다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1253_좋다" />
+    <configuration name="P17244_아맞다우산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P17244_아맞다우산" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P17244_아맞다우산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P17244_아맞다우산" />
+    <configuration name="P17270_연예인은_힘들어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P17270_연예인은_힘들어" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P17270_연예인은_힘들어" />
         <item itemvalue="Application.P1062_가르침" />
         <item itemvalue="Application.P5052_전화번호_목록" />
         <item itemvalue="Application.P1865_웜홀" />
         <item itemvalue="Application.P17244_아맞다우산" />
-        <item itemvalue="Application.P1253_좋다" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1736331251557" duration="5441000" />
       <workItem from="1736420229243" duration="21092000" />
       <workItem from="1736648380992" duration="37625000" />
-      <workItem from="1737111241866" duration="30788000" />
+      <workItem from="1737111241866" duration="36169000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1730292374631</created>
@@ -490,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737197363399</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="P1062_가르침">
+      <created>1737252968628</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1737252968628</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved P1351_무한_수열" />
     <MESSAGE value="solved P2225_합분해" />
     <MESSAGE value="solved P2240_자두나무" />
     <MESSAGE value="solved P2003_수들의_합2" />
@@ -533,7 +539,8 @@
     <MESSAGE value="P17244_아맞다우산" />
     <MESSAGE value="P1865_웜홀" />
     <MESSAGE value="P5052_전화번호_목록" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5052_전화번호_목록" />
+    <MESSAGE value="P1062_가르침" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1062_가르침" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
