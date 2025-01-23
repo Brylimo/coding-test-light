@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2309_일곱_난쟁이">
-      <change afterPath="$PROJECT_DIR$/src/homework/Array10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Array11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Main_2006_숫자출력_가위바위보게임.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Main_2008_빌딩건설.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="싸피 과제 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/SeriesMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/Magazine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +51,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main_2008_빌딩건설">
-    <configuration name="Array10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Array10" />
+  <component name="RunManager" selected="Application.BookTest">
+    <configuration name="Array11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SsafyHomework.Array11" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="SsafyHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Array11" />
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SsafyHomework.step3.BookTest" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="SsafyHomework.step3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="Main_2006_숫자출력_가위바위보게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Main_2006_숫자출력_가위바위보게임" />
+      <option name="MAIN_CLASS_NAME" value="SsafyHomework.Main_2006_숫자출력_가위바위보게임" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="SsafyHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Main_2008_빌딩건설" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Main_2008_빌딩건설" />
+      <option name="MAIN_CLASS_NAME" value="SsafyHomework.Main_2008_빌딩건설" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="SsafyHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2309_일곱_난쟁이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2309_일곱_난쟁이" />
+    <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SsafyHomework.step2.MovieTest" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="PATTERN" value="SsafyHomework.step2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.MovieTest" />
         <item itemvalue="Application.Main_2008_빌딩건설" />
         <item itemvalue="Application.Main_2006_숫자출력_가위바위보게임" />
         <item itemvalue="Application.Array11" />
-        <item itemvalue="Application.Array10" />
-        <item itemvalue="Application.P2309_일곱_난쟁이" />
       </list>
     </recent_temporary>
   </component>
@@ -163,14 +167,10 @@
       <workItem from="1736420229243" duration="21092000" />
       <workItem from="1736648380992" duration="37625000" />
       <workItem from="1737111241866" duration="43177000" />
-      <workItem from="1737377219476" duration="10769000" />
-    </task>
-    <task id="LOCAL-00003" summary="solved P1940_주몽">
-      <created>1730295417472</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1730295417472</updated>
+      <workItem from="1737377219476" duration="11941000" />
+      <workItem from="1737544617012" duration="10754000" />
+      <workItem from="1737634700150" duration="515000" />
+      <workItem from="1737635244072" duration="5223000" />
     </task>
     <task id="LOCAL-00004" summary="solved P12891_DNA_비밀번호">
       <created>1730427979450</created>
@@ -508,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737378890685</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="싸피 과제 문제 풀이">
+      <created>1737465118055</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1737465118055</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved P20922_겹치는_건_싫어" />
     <MESSAGE value="solved P14938_서강그라운드" />
     <MESSAGE value="solved P16987_계란으로_계란치기" />
     <MESSAGE value="solved P2230_수_고르기" />
@@ -551,7 +557,8 @@
     <MESSAGE value="P17270_연예인은_힘들어" />
     <MESSAGE value="P5568_카드_놓기" />
     <MESSAGE value="P2309_일곱_난쟁이" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2309_일곱_난쟁이" />
+    <MESSAGE value="싸피 과제 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="싸피 과제 문제 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -677,9 +684,19 @@
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/Main_2006_숫자출력_가위바위보게임.java</url>
+          <url>file://$PROJECT_DIR$/src/SsafyHomework/Main_2006_숫자출력_가위바위보게임.java</url>
           <line>40</line>
           <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SsafyHomework/step2/MovieManager.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SsafyHomework/step2/MovieManager.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
