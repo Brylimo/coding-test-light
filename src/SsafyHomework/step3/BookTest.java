@@ -3,7 +3,7 @@ package SsafyHomework.step3;
 public class BookTest {
     public static void main(String[] args) {
         // 도서 관리를 위한 객체 생성
-        BookManager manager = BookManager.getInstance();
+        IBookManager manager = BookManagerImpl.getInstance();
 
         // 테스트를 위한 Book 객체 3개 생성
         Book b1 = new Book("21424", "Java Pro", "김하나", "jaen.kr", 15000, "Java 기본 문법");
@@ -16,25 +16,25 @@ public class BookTest {
         manager.add(b3);
         manager.add(b4);
 
-        manager.printTitle("도서 전체 목록");
+        System.out.println("**********************도서 전체 목록**********************");
         Book[] books = manager.getList();
         for (Book book : books) {
             System.out.println(book);
         }
 
-        manager.printTitle("일반 도서 목록");
+        System.out.println("**********************일반 도서 목록**********************");
         Book[] normalBooks = manager.getBooks();
         for (Book book : normalBooks) {
             System.out.println(book);
         }
 
-        manager.printTitle("잡지 목록");
+        System.out.println("**********************잡지 목록**********************");
         Magazine[] magazines = manager.getMagazines();
         for (Magazine magazine : magazines) {
             System.out.println(magazine);
         }
 
-        manager.printTitle("도서 제목 포함검색:Java");
+        System.out.println("**********************도서 제목 포함검색:Java**********************");
         Book[] foundBooks = manager.searchByTitle("Java");
         for (Book foundBook : foundBooks) {
             System.out.println(foundBook);

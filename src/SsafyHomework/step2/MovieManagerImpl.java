@@ -1,16 +1,16 @@
 package SsafyHomework.step2;
 import java.util.*;
 
-public class MovieManager {
-    private static MovieManager instance = new MovieManager();
+public class MovieManagerImpl implements IMovieManager {
+    private static IMovieManager instance = new MovieManagerImpl();
     private static final int MAX_SIZE = 100;
     private Movie[] movieList;
     private int size;
-    private MovieManager() {
+    private MovieManagerImpl() {
         movieList = new Movie[MAX_SIZE];
     }
 
-    public static MovieManager getInstance() { return instance; }
+    public static IMovieManager getInstance() { return instance; }
 
     public void add(Movie movie) {
         movieList[size++] = movie;
@@ -68,9 +68,5 @@ public class MovieManager {
         }
 
         return (double)sum / size;
-    }
-
-    public void printTitle(String title) {
-        System.out.println("**********************" + title + "**********************");
     }
 }

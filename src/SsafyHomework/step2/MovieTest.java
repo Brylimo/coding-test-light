@@ -2,7 +2,7 @@ package SsafyHomework.step2;
 
 public class MovieTest {
     public static void main(String[] args) {
-        MovieManager manager = MovieManager.getInstance();
+        IMovieManager manager = MovieManagerImpl.getInstance();
 
         Movie m1 = new Movie(1, "타이타닉", "James Cameron", "Romance/Adventure", 194);
         Movie m2 = new Movie(2, "태극기 휘날리며", "강제규", "War/Action", 200);
@@ -18,37 +18,37 @@ public class MovieTest {
         manager.add(m5);
         manager.add(m6);
 
-        manager.printTitle("영화 목록");
+        System.out.println("**********************영화 목록**********************");
         Movie[] movies = manager.getList();
         for (Movie movie : movies) {
             System.out.println(movie);
         }
 
-        manager.printTitle("영화 조회:태극");
+        System.out.println("**********************영화 조회:태극**********************");
         Movie[] foundMovies1 = manager.searchByTitle("태극");
         for (Movie foundMovie : foundMovies1) {
             System.out.println(foundMovie);
         }
 
-        manager.printTitle("영화 조회:쥬라기 공원");
+        System.out.println("**********************영화 조회:쥬라기 공원**********************");
         Movie[] foundMovies2 = manager.searchByTitle("쥬라기 공원");
         for (Movie foundMovie : foundMovies2) {
             System.out.println(foundMovie);
         }
 
-        manager.printTitle("일반 영화 조회");
+        System.out.println("**********************일반 영화 조회**********************");
         Movie[] normalMovies = manager.getMovies();
         for (Movie movie : normalMovies) {
             System.out.println(movie);
         }
 
-        manager.printTitle("시리즈 영화 조회");
+        System.out.println("**********************시리즈 영화 조회**********************");
         SeriesMovie[] seriesMovies = manager.getSeriesMovies();
         for (SeriesMovie seriesMovie : seriesMovies) {
             System.out.println(seriesMovie);
         }
 
-        manager.printTitle("영화 평균 상영시간");
+        System.out.println("**********************영화 평균 상영시간**********************");
         double average = manager.getRunningTimeAvg();
         System.out.println(average);
 

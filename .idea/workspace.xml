@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="싸피 과제 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/SeriesMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/BookManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/IBookManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step3/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/BookManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step3/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step3/BookTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -170,14 +166,7 @@
       <workItem from="1737377219476" duration="11941000" />
       <workItem from="1737544617012" duration="10754000" />
       <workItem from="1737634700150" duration="515000" />
-      <workItem from="1737635244072" duration="5223000" />
-    </task>
-    <task id="LOCAL-00004" summary="solved P12891_DNA_비밀번호">
-      <created>1730427979450</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1730427979450</updated>
+      <workItem from="1737635244072" duration="9102000" />
     </task>
     <task id="LOCAL-00005" summary="solved P11003_최소값_찾기">
       <created>1730438776095</created>
@@ -515,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737465118055</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="싸피 과제 문제 풀이">
+      <created>1737641496457</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1737641496457</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

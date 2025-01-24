@@ -2,8 +2,8 @@ package SsafyHomework.step3;
 
 import java.util.ArrayList;
 
-public class BookManager {
-    private static BookManager instance = new BookManager();
+public class BookManagerImpl implements IBookManager {
+    private static IBookManager instance = new BookManagerImpl();
     private static final int MAX_SIZE = 100;
     private Book[] books;
     private int size;
@@ -11,11 +11,11 @@ public class BookManager {
     /**
      * 기본생성자: MAX_SIZE로 배열객체 생성 초기화
      */
-    public BookManager() {
+    public BookManagerImpl() {
         books = new Book[MAX_SIZE];
     }
 
-    public static BookManager getInstance() { return instance; }
+    public static IBookManager getInstance() { return instance; }
 
     /**
      * 책 등록 메서드
@@ -125,10 +125,5 @@ public class BookManager {
         }
 
         return (double)sum / size;
-    }
-
-    /** 제목 출력 메서드 */
-    public void printTitle(String title) {
-        System.out.println("**********************" + title + "**********************");
     }
 }
