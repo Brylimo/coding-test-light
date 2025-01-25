@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P15663_N과_M_9">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P15664_N과_M_10.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P15663_N과_M_10">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P15665_N과_M_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P15664_N과_M_10">
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SsafyHomework.step3.BookTest" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SsafyHomework.step3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P15665_N과_M_11">
     <configuration name="P15655_N과_M_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P15655_N과_M_6" />
       <module name="coding-test-light" />
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P15665_N과_M_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P15665_N과_M_11" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P15665_N과_M_11" />
         <item itemvalue="Application.P15664_N과_M_10" />
         <item itemvalue="Application.P15663_N과_M_9" />
         <item itemvalue="Application.P15656_N과_M_7" />
         <item itemvalue="Application.P15655_N과_M_6" />
-        <item itemvalue="Application.BookTest" />
       </list>
     </recent_temporary>
   </component>
@@ -164,14 +164,7 @@
       <workItem from="1737377219476" duration="11941000" />
       <workItem from="1737544617012" duration="10754000" />
       <workItem from="1737634700150" duration="515000" />
-      <workItem from="1737635244072" duration="24670000" />
-    </task>
-    <task id="LOCAL-00009" summary="solved CodeTree_토스트_계란틀">
-      <created>1731236542214</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1731236542214</updated>
+      <workItem from="1737635244072" duration="25864000" />
     </task>
     <task id="LOCAL-00010" summary="solved CodeTree_불안한_무빙워크">
       <created>1731300346841</created>
@@ -509,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737784124241</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="P15663_N과_M_10">
+      <created>1737785224768</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1737785224768</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved P17404_RGB거리_2" />
     <MESSAGE value="P15683_감시" />
     <MESSAGE value="solved P22862_가장_긴_짝수_연속한_부분_수열_라지" />
     <MESSAGE value="solved P1011_Fly_me_to_the_Alpha_Centauri" />
@@ -552,7 +551,8 @@
     <MESSAGE value="P15655_N과_M_6" />
     <MESSAGE value="P15656_N과_M_7" />
     <MESSAGE value="P15663_N과_M_9" />
-    <option name="LAST_COMMIT_MESSAGE" value="P15663_N과_M_9" />
+    <MESSAGE value="P15663_N과_M_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="P15663_N과_M_10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -716,6 +716,21 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P15664_N과_M_10.java</url>
           <line>26</line>
           <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P15665_N과_M_11.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P15665_N과_M_11.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P15665_N과_M_11.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
