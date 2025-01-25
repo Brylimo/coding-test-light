@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2605_줄_세우기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2578_빙고.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,14 +161,7 @@
       <workItem from="1737377219476" duration="11941000" />
       <workItem from="1737544617012" duration="10754000" />
       <workItem from="1737634700150" duration="515000" />
-      <workItem from="1737635244072" duration="36965000" />
-    </task>
-    <task id="LOCAL-00013" summary="solved P15961_회전_초밥">
-      <created>1733124739913</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1733124739913</updated>
+      <workItem from="1737635244072" duration="37665000" />
     </task>
     <task id="LOCAL-00014" summary="solved P43162_네트워크">
       <created>1733554762401</created>
@@ -509,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737796740261</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="P2578_빙고">
+      <created>1737801525341</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1737801525341</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P11729_하노이_탑_이동_순서" />
     <MESSAGE value="P18808_스티커_붙이기" />
     <MESSAGE value="P2293_동전1" />
     <MESSAGE value="P11003_최소값_찾기" />
@@ -552,7 +548,8 @@
     <MESSAGE value="P15665_N과_M_11" />
     <MESSAGE value="P15666_N과_M_12" />
     <MESSAGE value="P2605_줄_세우기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2605_줄_세우기" />
+    <MESSAGE value="P2578_빙고" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2578_빙고" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

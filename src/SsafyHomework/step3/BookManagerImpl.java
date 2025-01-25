@@ -11,7 +11,7 @@ public class BookManagerImpl implements IBookManager {
     /**
      * 기본생성자: MAX_SIZE로 배열객체 생성 초기화
      */
-    public BookManagerImpl() {
+    private BookManagerImpl() {
         books = new Book[MAX_SIZE];
     }
 
