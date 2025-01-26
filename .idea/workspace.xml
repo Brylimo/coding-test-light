@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="ssafy 과제 수정">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2563_색종이.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2563_색종이">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2564_경비원.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P2563_색종이">
-    <configuration name="P15666_N과_M_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P15666_N과_M_12" />
+  <component name="RunManager" selected="Application.P2564_경비원">
+    <configuration name="P2563_색종이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2563_색종이" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2563_색종이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2563_색종이" />
+    <configuration name="P2564_경비원" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2564_경비원" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2564_경비원" />
         <item itemvalue="Application.P2563_색종이" />
         <item itemvalue="Application.P2578_빙고" />
         <item itemvalue="Application.P2605_줄_세우기" />
         <item itemvalue="Application.asdf" />
-        <item itemvalue="Application.P15666_N과_M_12" />
       </list>
     </recent_temporary>
   </component>
@@ -167,14 +167,7 @@
       <workItem from="1737635244072" duration="37665000" />
       <workItem from="1737803678337" duration="347000" />
       <workItem from="1737804028205" duration="855000" />
-      <workItem from="1737861429029" duration="486000" />
-    </task>
-    <task id="LOCAL-00015" summary="solved P42577_전화번호_목록">
-      <created>1733833518837</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1733833518837</updated>
+      <workItem from="1737861429029" duration="5838000" />
     </task>
     <task id="LOCAL-00016" summary="solved P42578_의상">
       <created>1734006764964</created>
@@ -512,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737803858057</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="P2563_색종이">
+      <created>1737862023905</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1737862023905</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2293_동전1" />
     <MESSAGE value="P11003_최소값_찾기" />
     <MESSAGE value="P17070_파이프_옮기기_1" />
     <MESSAGE value="P8980_택배" />
@@ -555,7 +554,8 @@
     <MESSAGE value="P2605_줄_세우기" />
     <MESSAGE value="P2578_빙고" />
     <MESSAGE value="ssafy 과제 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssafy 과제 수정" />
+    <MESSAGE value="P2563_색종이" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2563_색종이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -739,6 +739,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2605_줄_세우기.java</url>
           <line>25</line>
           <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P2564_경비원.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
