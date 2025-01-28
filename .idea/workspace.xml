@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2635_수_이어가기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1244_스위치_켜고_끄기.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1244_스위치_켜고_끄기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2628_종이자르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P1244_스위치_켜고_끄기">
-    <configuration name="P10157_자리배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P10157_자리배정" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P2628_종이자르기">
     <configuration name="P10158_개미" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10158_개미" />
       <module name="coding-test-light" />
@@ -74,6 +61,19 @@
     </configuration>
     <configuration name="P1244_스위치_켜고_끄기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1244_스위치_켜고_끄기" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2628_종이자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2628_종이자르기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2628_종이자르기" />
         <item itemvalue="Application.P1244_스위치_켜고_끄기" />
         <item itemvalue="Application.P2635_수_이어가기" />
         <item itemvalue="Application.P2669_직사각형_네개의_합집의_면적_구하기" />
         <item itemvalue="Application.P10158_개미" />
-        <item itemvalue="Application.P10157_자리배정" />
       </list>
     </recent_temporary>
   </component>
@@ -168,14 +168,7 @@
       <workItem from="1737803678337" duration="347000" />
       <workItem from="1737804028205" duration="855000" />
       <workItem from="1737861429029" duration="7076000" />
-      <workItem from="1737876085696" duration="41280000" />
-    </task>
-    <task id="LOCAL-00025" summary="solved P2240_자두나무">
-      <created>1734864571320</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1734864571320</updated>
+      <workItem from="1737876085696" duration="45191000" />
     </task>
     <task id="LOCAL-00026" summary="solved P2003_수들의_합2">
       <created>1734868473583</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737969538138</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="P1244_스위치_켜고_끄기">
+      <created>1738033354025</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1738033354025</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P5052_전화번호_목록" />
     <MESSAGE value="P1062_가르침" />
     <MESSAGE value="P17270_연예인은_힘들어" />
     <MESSAGE value="P5568_카드_놓기" />
@@ -556,7 +555,8 @@
     <MESSAGE value="P10158_개미" />
     <MESSAGE value="P2669_직사각형_네개의_합집의_면적_구하기" />
     <MESSAGE value="P2635_수_이어가기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2635_수_이어가기" />
+    <MESSAGE value="P1244_스위치_켜고_끄기" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1244_스위치_켜고_끄기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,6 +760,16 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P10158_개미.java</url>
           <line>26</line>
           <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P2628_종이자르기.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P2628_종이자르기.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="157" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
