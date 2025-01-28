@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P10163_색종이">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P13300_방_배정.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P13300_방_배정">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14696_딱지_놀이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P13300_방_배정">
+  <component name="RunManager" selected="Application.P14696_딱지_놀이">
     <configuration name="P10163_색종이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10163_색종이" />
       <module name="coding-test-light" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2116_주사위_쌓기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2116_주사위_쌓기" />
+    <configuration name="P14696_딱지_놀이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14696_딱지_놀이" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P14696_딱지_놀이" />
         <item itemvalue="Application.P13300_방_배정" />
         <item itemvalue="Application.P10163_색종이" />
         <item itemvalue="Application.P2559_수열" />
         <item itemvalue="Application.P2304_창고_다각형" />
-        <item itemvalue="Application.P2116_주사위_쌓기" />
       </list>
     </recent_temporary>
   </component>
@@ -169,14 +169,7 @@
       <workItem from="1737804028205" duration="855000" />
       <workItem from="1737861429029" duration="7076000" />
       <workItem from="1737876085696" duration="45191000" />
-      <workItem from="1738046824149" duration="10438000" />
-    </task>
-    <task id="LOCAL-00031" summary="solved P17404_RGB거리_2">
-      <created>1735175122730</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1735175122730</updated>
+      <workItem from="1738046824149" duration="11299000" />
     </task>
     <task id="LOCAL-00032" summary="P15683_감시">
       <created>1735178997720</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738061091132</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="P13300_방_배정">
+      <created>1738061852452</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1738061852452</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P15655_N과_M_6" />
     <MESSAGE value="P15656_N과_M_7" />
     <MESSAGE value="P15663_N과_M_9" />
     <MESSAGE value="P15663_N과_M_10" />
@@ -557,7 +556,8 @@
     <MESSAGE value="P2304_창고_다각형" />
     <MESSAGE value="P2559_수열" />
     <MESSAGE value="P10163_색종이" />
-    <option name="LAST_COMMIT_MESSAGE" value="P10163_색종이" />
+    <MESSAGE value="P13300_방_배정" />
+    <option name="LAST_COMMIT_MESSAGE" value="P13300_방_배정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
