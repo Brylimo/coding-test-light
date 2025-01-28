@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2559_수열">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P10163_색종이.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P10163_색종이">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P13300_방_배정.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P10163_색종이">
+  <component name="RunManager" selected="Application.P13300_방_배정">
     <configuration name="P10163_색종이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10163_색종이" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P13300_방_배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P13300_방_배정" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2628_종이자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2628_종이자르기" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P13300_방_배정" />
         <item itemvalue="Application.P10163_색종이" />
         <item itemvalue="Application.P2559_수열" />
         <item itemvalue="Application.P2304_창고_다각형" />
         <item itemvalue="Application.P2116_주사위_쌓기" />
-        <item itemvalue="Application.P2628_종이자르기" />
       </list>
     </recent_temporary>
   </component>
@@ -169,14 +169,7 @@
       <workItem from="1737804028205" duration="855000" />
       <workItem from="1737861429029" duration="7076000" />
       <workItem from="1737876085696" duration="45191000" />
-      <workItem from="1738046824149" duration="9304000" />
-    </task>
-    <task id="LOCAL-00030" summary="solved P2230_수_고르기">
-      <created>1735105696670</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1735105696670</updated>
+      <workItem from="1738046824149" duration="10438000" />
     </task>
     <task id="LOCAL-00031" summary="solved P17404_RGB거리_2">
       <created>1735175122730</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738059235187</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="P10163_색종이">
+      <created>1738061091132</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1738061091132</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="싸피 과제 문제 풀이" />
     <MESSAGE value="P15655_N과_M_6" />
     <MESSAGE value="P15656_N과_M_7" />
     <MESSAGE value="P15663_N과_M_9" />
@@ -557,7 +556,8 @@
     <MESSAGE value="P2116_주사위_쌓기" />
     <MESSAGE value="P2304_창고_다각형" />
     <MESSAGE value="P2559_수열" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2559_수열" />
+    <MESSAGE value="P10163_색종이" />
+    <option name="LAST_COMMIT_MESSAGE" value="P10163_색종이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
