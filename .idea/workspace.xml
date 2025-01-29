@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P13300_방_배정">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14696_딱지_놀이.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P14696_딱지_놀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P5427_불_틀림.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P5427_불.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P14696_딱지_놀이">
+  <component name="RunManager" selected="Application.P5427_불">
     <configuration name="P10163_색종이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10163_색종이" />
       <module name="coding-test-light" />
@@ -85,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2304_창고_다각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2304_창고_다각형" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P2559_수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P2559_수열" />
       <module name="coding-test-light" />
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P5427_불" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P5427_불" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5427_불" />
         <item itemvalue="Application.P14696_딱지_놀이" />
         <item itemvalue="Application.P13300_방_배정" />
         <item itemvalue="Application.P10163_색종이" />
         <item itemvalue="Application.P2559_수열" />
-        <item itemvalue="Application.P2304_창고_다각형" />
       </list>
     </recent_temporary>
   </component>
@@ -169,14 +169,7 @@
       <workItem from="1737804028205" duration="855000" />
       <workItem from="1737861429029" duration="7076000" />
       <workItem from="1737876085696" duration="45191000" />
-      <workItem from="1738046824149" duration="11299000" />
-    </task>
-    <task id="LOCAL-00032" summary="P15683_감시">
-      <created>1735178997720</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1735178997720</updated>
+      <workItem from="1738046824149" duration="15391000" />
     </task>
     <task id="LOCAL-00033" summary="solved P22862_가장_긴_짝수_연속한_부분_수열_라지">
       <created>1735182437627</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738061852452</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="P14696_딱지_놀이">
+      <created>1738069284611</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1738069284611</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P15656_N과_M_7" />
     <MESSAGE value="P15663_N과_M_9" />
     <MESSAGE value="P15663_N과_M_10" />
     <MESSAGE value="P15665_N과_M_11" />
@@ -557,7 +556,8 @@
     <MESSAGE value="P2559_수열" />
     <MESSAGE value="P10163_색종이" />
     <MESSAGE value="P13300_방_배정" />
-    <option name="LAST_COMMIT_MESSAGE" value="P13300_방_배정" />
+    <MESSAGE value="P14696_딱지_놀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="P14696_딱지_놀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -786,6 +786,16 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2304_창고_다각형.java</url>
           <line>58</line>
           <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P5427_불.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P5427_불.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="168" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
