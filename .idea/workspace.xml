@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5427_불">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P3015_오아시스_재결합.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P3015_오아시스_재결합">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +44,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P3015_오아시스_재결합">
-    <configuration name="P10163_색종이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P10163_색종이" />
+  <component name="RunManager" selected="Application.P14681_사분면_고르기">
+    <configuration name="P13300_방_배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P13300_방_배정" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P13300_방_배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P13300_방_배정" />
+    <configuration name="P14681_사분면_고르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14681_사분면_고르기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P14681_사분면_고르기" />
         <item itemvalue="Application.P3015_오아시스_재결합" />
         <item itemvalue="Application.P5427_불" />
         <item itemvalue="Application.P14696_딱지_놀이" />
         <item itemvalue="Application.P13300_방_배정" />
-        <item itemvalue="Application.P10163_색종이" />
       </list>
     </recent_temporary>
   </component>
@@ -169,14 +168,7 @@
       <workItem from="1737804028205" duration="855000" />
       <workItem from="1737861429029" duration="7076000" />
       <workItem from="1737876085696" duration="45191000" />
-      <workItem from="1738046824149" duration="20634000" />
-    </task>
-    <task id="LOCAL-00034" summary="solved P1011_Fly_me_to_the_Alpha_Centauri">
-      <created>1735190154660</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1735190154660</updated>
+      <workItem from="1738046824149" duration="21634000" />
     </task>
     <task id="LOCAL-00035" summary="P11729_하노이_탑_이동_순서">
       <created>1735202645533</created>
@@ -514,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738126970272</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="P3015_오아시스_재결합">
+      <created>1738133699152</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1738133699152</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P15663_N과_M_10" />
     <MESSAGE value="P15665_N과_M_11" />
     <MESSAGE value="P15666_N과_M_12" />
     <MESSAGE value="P2605_줄_세우기" />
@@ -557,7 +555,8 @@
     <MESSAGE value="P13300_방_배정" />
     <MESSAGE value="P14696_딱지_놀이" />
     <MESSAGE value="P5427_불" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5427_불" />
+    <MESSAGE value="P3015_오아시스_재결합" />
+    <option name="LAST_COMMIT_MESSAGE" value="P3015_오아시스_재결합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
