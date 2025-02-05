@@ -1,6 +1,8 @@
 package SsafyHomework.step2;
 
-public class Movie {
+import java.io.Serializable;
+
+public class Movie implements Serializable {
     /**  영화 아이디 */
     private int id;
     /**  영화 제목 */

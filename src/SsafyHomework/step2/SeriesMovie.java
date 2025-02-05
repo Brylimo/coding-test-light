@@ -1,6 +1,7 @@
 package SsafyHomework.step2;
 
 public class SeriesMovie extends Movie {
+    //코드를 작성해주세요.
     private int seriesNum;
     private String episode;
 

@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1822_차집합">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P9012_괄호.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P9012_괄호">
+      <change afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/TitleNotFoundException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step2/IMovieManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/IMovieManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step2/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/MovieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SsafyHomework/step2/SeriesMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SsafyHomework/step2/SeriesMovie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +50,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P9012_괄호">
-    <configuration name="P1085_직사각형에서_탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1085_직사각형에서_탈출" />
+  <component name="RunManager" selected="Application.MovieTest">
+    <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SsafyHomework.step2.MovieTest" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="PATTERN" value="SsafyHomework.step2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P14681_사분면_고르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14681_사분면_고르기" />
+    <configuration name="P1085_직사각형에서_탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1085_직사각형에서_탈출" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieTest" />
         <item itemvalue="Application.P9012_괄호" />
         <item itemvalue="Application.P1822_차집합" />
         <item itemvalue="Application.P2170_선_긋기_못품" />
         <item itemvalue="Application.P1085_직사각형에서_탈출" />
-        <item itemvalue="Application.P14681_사분면_고르기" />
       </list>
     </recent_temporary>
   </component>
@@ -170,14 +175,9 @@
       <workItem from="1737861429029" duration="7076000" />
       <workItem from="1737876085696" duration="45191000" />
       <workItem from="1738046824149" duration="21634000" />
-      <workItem from="1738224315103" duration="8376000" />
-    </task>
-    <task id="LOCAL-00038" summary="P11003_최소값_찾기">
-      <created>1736055701076</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1736055701076</updated>
+      <workItem from="1738224315103" duration="9955000" />
+      <workItem from="1738760733548" duration="2132000" />
+      <workItem from="1738763008807" duration="2335000" />
     </task>
     <task id="LOCAL-00039" summary="P17070_파이프_옮기기_1">
       <created>1736337322310</created>
@@ -515,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738665688953</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="P9012_괄호">
+      <created>1738666287809</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1738666287809</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2578_빙고" />
     <MESSAGE value="ssafy 과제 수정" />
     <MESSAGE value="P2563_색종이" />
     <MESSAGE value="P2564_경비원" />
@@ -558,7 +564,8 @@
     <MESSAGE value="P14681_사분면_고르기" />
     <MESSAGE value="P1085_직사각형에서_탈출" />
     <MESSAGE value="P1822_차집합" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1822_차집합" />
+    <MESSAGE value="P9012_괄호" />
+    <option name="LAST_COMMIT_MESSAGE" value="P9012_괄호" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,12 +697,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/SsafyHomework/step2/MovieManagerImpl.java</url>
-          <line>75</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SsafyHomework/step2/MovieManagerImpl.java</url>
-          <line>4</line>
+          <line>6</line>
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

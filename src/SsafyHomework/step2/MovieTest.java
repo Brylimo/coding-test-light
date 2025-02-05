@@ -18,6 +18,8 @@ public class MovieTest {
         manager.add(m5);
         manager.add(m6);
 
+        manager.saveData();
+
         System.out.println("**********************영화 목록**********************");
         Movie[] movies = manager.getList();
         for (Movie movie : movies) {
@@ -25,15 +27,30 @@ public class MovieTest {
         }
 
         System.out.println("**********************영화 조회:태극**********************");
-        Movie[] foundMovies1 = manager.searchByTitle("태극");
-        for (Movie foundMovie : foundMovies1) {
-            System.out.println(foundMovie);
+
+        Movie[] foundMovies1 = null;
+        try {
+            foundMovies1 = manager.searchByTitle("태극");
+
+            for (Movie foundMovie : foundMovies1) {
+                System.out.println(foundMovie);
+            }
+        } catch (TitleNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
         }
 
         System.out.println("**********************영화 조회:쥬라기 공원**********************");
-        Movie[] foundMovies2 = manager.searchByTitle("쥬라기 공원");
-        for (Movie foundMovie : foundMovies2) {
-            System.out.println(foundMovie);
+        Movie[] foundMovies2 = null;
+        try {
+            foundMovies2 = manager.searchByTitle("쥬라기 공원");
+
+            for (Movie foundMovie : foundMovies2) {
+                System.out.println(foundMovie);
+            }
+        } catch (TitleNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
         }
 
         System.out.println("**********************일반 영화 조회**********************");
@@ -51,6 +68,5 @@ public class MovieTest {
         System.out.println("**********************영화 평균 상영시간**********************");
         double average = manager.getRunningTimeAvg();
         System.out.println(average);
-
     }
 }

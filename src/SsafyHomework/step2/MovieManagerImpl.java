@@ -1,49 +1,70 @@
 package SsafyHomework.step2;
+import java.io.*;
 import java.util.*;
 
 public class MovieManagerImpl implements IMovieManager {
     private static IMovieManager instance = new MovieManagerImpl();
-    private static final int MAX_SIZE = 100;
-    private Movie[] movieList;
-    private int size;
+    private List<Movie> movieList = new ArrayList<>();
     private MovieManagerImpl() {
-        movieList = new Movie[MAX_SIZE];
+        loadData();
+    }
+
+    private void loadData() {
+        File file = new File("movie.dat");
+
+        if (file != null && file.exists()) {
+            try(ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file))){
+                Object readed = ois.readObject();
+                if(readed instanceof List<?>) {
+                    for (Object element : (List<?>)readed) {
+                        if (element instanceof Movie) {
+                            movieList.add((Movie)element);
+                        }
+                    }
+                }
+
+            } catch(IOException e) {
+                e.printStackTrace();
+            }catch(ClassNotFoundException e) {
+                e.printStackTrace();
+            }
+        } else {
+            System.out.println("파일이 존재하지 않습니다.");
+        }
+    }
+
+    public void saveData() {
+        try(ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("movie.dat"))){
+            oos.writeObject(movieList);
+            System.out.println("저장 완료!");
+        }catch(IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public static IMovieManager getInstance() { return instance; }
 
     public void add(Movie movie) {
-        movieList[size++] = movie;
+        movieList.add(movie);
     }
 
     public Movie[] getList() {
-        Movie[] tempMovies = new Movie[size];
-        for (int index = 0; index < size; index++) {
-            tempMovies[index] = movieList[index];
-        }
-
-        return tempMovies;
+        return movieList.stream().toArray(Movie[]::new);
     }
 
-    public Movie[] searchByTitle(String title) {
-        ArrayList<Movie> list = new ArrayList<>();
-        for (int index = 0; index < size; index++) {
-            Movie target = movieList[index];
+    public Movie[] searchByTitle(String title) throws TitleNotFoundException {
+        Movie[] movies =  movieList.stream().filter(movie -> movie.getTitle().contains(title)).toArray(Movie[]::new);
 
-            // 인자로 주어진 title이 포함되어 있으면
-            if (target.getTitle().contains(title)) {
-                list.add(target);
-            }
-        }
+        if (movies.length > 0) return movies;
 
-        return list.toArray(new Movie[list.size()]);
+        throw new TitleNotFoundException("영화를 찾지 못했습니다!!!");
     }
 
     public Movie[] getMovies() {
         ArrayList<Movie> list = new ArrayList<>();
-        for (int i = 0; i < size; i++) {
-            if (!(movieList[i] instanceof SeriesMovie)) { // 일반 영화
-                list.add(movieList[i]);
+        for (int i = 0; i < movieList.size(); i++) {
+            if (!(movieList.get(i) instanceof SeriesMovie)) { // 일반 영화
+                list.add(movieList.get(i));
             }
         }
 
@@ -52,9 +73,9 @@ public class MovieManagerImpl implements IMovieManager {
 
     public SeriesMovie[] getSeriesMovies() {
         ArrayList<SeriesMovie> list = new ArrayList<>();
-        for (int i = 0; i < size; i++) {
-            if (movieList[i] instanceof SeriesMovie) {
-                list.add((SeriesMovie) movieList[i]);
+        for (int i = 0; i < movieList.size(); i++) {
+            if (movieList.get(i) instanceof SeriesMovie) {
+                list.add((SeriesMovie) movieList.get(i));
             }
         }
 
@@ -63,10 +84,10 @@ public class MovieManagerImpl implements IMovieManager {
 
     public double getRunningTimeAvg() {
         int sum = 0;
-        for (int i = 0; i < size; i++) {
-            sum += movieList[i].getRunningTime();
+        for (int i = 0; i < movieList.size(); i++) {
+            sum += movieList.get(i).getRunningTime();
         }
 
-        return (double)sum / size;
+        return (double)sum / movieList.size();
     }
 }
