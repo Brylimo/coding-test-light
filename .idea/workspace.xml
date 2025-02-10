@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="싸피 과제 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1182_부분수열의_합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1182_부분수열의_합_비트마스킹.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1182_부분수열의_합">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2615_오목.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P1182_부분수열의_합">
+  <component name="RunManager" selected="Application.Solved_14510_나무_높이">
     <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SsafyHomework.step2.MovieTest" />
       <module name="coding-test-light" />
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1822_차집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1822_차집합" />
+    <configuration name="P1874_스택수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1874_스택수열" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2170_선_긋기_못품" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2170_선_긋기_못품" />
+    <configuration name="P2615_오목" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2615_오목" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9012_괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P9012_괄호" />
+    <configuration name="Solved_14510_나무_높이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_14510_나무_높이" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="PATTERN" value="SWEA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_14510_나무_높이" />
+        <item itemvalue="Application.P2615_오목" />
+        <item itemvalue="Application.P1874_스택수열" />
         <item itemvalue="Application.P1182_부분수열의_합" />
         <item itemvalue="Application.MovieTest" />
-        <item itemvalue="Application.P9012_괄호" />
-        <item itemvalue="Application.P1822_차집합" />
-        <item itemvalue="Application.P2170_선_긋기_못품" />
       </list>
     </recent_temporary>
   </component>
@@ -174,14 +174,8 @@
       <workItem from="1738224315103" duration="9955000" />
       <workItem from="1738760733548" duration="2132000" />
       <workItem from="1738763008807" duration="3554000" />
-      <workItem from="1738837780886" duration="1936000" />
-    </task>
-    <task id="LOCAL-00040" summary="P8980_택배">
-      <created>1736565142870</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1736565142870</updated>
+      <workItem from="1738837780886" duration="8067000" />
+      <workItem from="1739017456384" duration="11907000" />
     </task>
     <task id="LOCAL-00041" summary="P17406_배열_돌리기_4">
       <created>1736573713758</created>
@@ -519,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738766167721</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="P1182_부분수열의_합">
+      <created>1738840155136</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1738840155137</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2563_색종이" />
     <MESSAGE value="P2564_경비원" />
     <MESSAGE value="P2491_수열" />
     <MESSAGE value="P2477_참외밭" />
@@ -562,7 +562,8 @@
     <MESSAGE value="P1822_차집합" />
     <MESSAGE value="P9012_괄호" />
     <MESSAGE value="싸피 과제 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="싸피 과제 문제 풀이" />
+    <MESSAGE value="P1182_부분수열의_합" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1182_부분수열의_합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,6 +807,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2170_선_긋기_못품.java</url>
           <line>33</line>
           <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="177" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
