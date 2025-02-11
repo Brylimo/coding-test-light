@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P19539_사과나무">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_2382_미생물_격리.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_14510_나무_높이">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P4485_녹색_옷_입은_애가_젤다지.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이_못품.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solved_14510_나무_높이">
-    <configuration name="P1874_스택수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1874_스택수열" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P4485_녹색_옷_입은_애가_젤다지">
     <configuration name="P19539_사과나무" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P19539_사과나무" />
       <module name="coding-test-light" />
@@ -75,6 +61,19 @@
     </configuration>
     <configuration name="P2615_오목" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P2615_오목" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P4485_녹색_옷_입은_애가_젤다지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P4485_녹색_옷_입은_애가_젤다지" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P4485_녹색_옷_입은_애가_젤다지" />
         <item itemvalue="Application.Solved_14510_나무_높이" />
         <item itemvalue="Application.P19539_사과나무" />
         <item itemvalue="Application.Solved_14510_나무_높이_못품" />
         <item itemvalue="Application.P2615_오목" />
-        <item itemvalue="Application.P1874_스택수열" />
       </list>
     </recent_temporary>
   </component>
@@ -175,14 +174,7 @@
       <workItem from="1738760733548" duration="2132000" />
       <workItem from="1738763008807" duration="3554000" />
       <workItem from="1738837780886" duration="8067000" />
-      <workItem from="1739017456384" duration="22241000" />
-    </task>
-    <task id="LOCAL-00043" summary="P15657_N과_M_8">
-      <created>1736943536863</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1736943536863</updated>
+      <workItem from="1739017456384" duration="24650000" />
     </task>
     <task id="LOCAL-00044" summary="P2961_도영이가_만든_맛있는_음식">
       <created>1736953171383</created>
@@ -520,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739192942585</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Solved_14510_나무_높이">
+      <created>1739276260876</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1739276260876</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2477_참외밭" />
     <MESSAGE value="P11758_CCW" />
     <MESSAGE value="P2527_직사각형" />
     <MESSAGE value="P10157_자리배정" />
@@ -563,7 +561,8 @@
     <MESSAGE value="P1182_부분수열의_합" />
     <MESSAGE value="P2615_오목" />
     <MESSAGE value="P19539_사과나무" />
-    <option name="LAST_COMMIT_MESSAGE" value="P19539_사과나무" />
+    <MESSAGE value="Solved_14510_나무_높이" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_14510_나무_높이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
