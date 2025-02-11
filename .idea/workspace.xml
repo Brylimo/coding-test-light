@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2615_오목">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P19539_사과나무.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P19539_사과나무">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_2382_미생물_격리.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이_못품.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P19539_사과나무">
-    <configuration name="P1182_부분수열의_합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1182_부분수열의_합" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solved_14510_나무_높이">
     <configuration name="P1874_스택수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1874_스택수열" />
       <module name="coding-test-light" />
@@ -98,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solved_14510_나무_높이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_14510_나무_높이" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solved_14510_나무_높이_못품" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.Solved_14510_나무_높이_못품" />
       <module name="coding-test-light" />
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_14510_나무_높이" />
         <item itemvalue="Application.P19539_사과나무" />
         <item itemvalue="Application.Solved_14510_나무_높이_못품" />
         <item itemvalue="Application.P2615_오목" />
         <item itemvalue="Application.P1874_스택수열" />
-        <item itemvalue="Application.P1182_부분수열의_합" />
       </list>
     </recent_temporary>
   </component>
@@ -174,14 +175,7 @@
       <workItem from="1738760733548" duration="2132000" />
       <workItem from="1738763008807" duration="3554000" />
       <workItem from="1738837780886" duration="8067000" />
-      <workItem from="1739017456384" duration="13097000" />
-    </task>
-    <task id="LOCAL-00042" summary="P1911_흙길_보수하기">
-      <created>1736682525690</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1736682525690</updated>
+      <workItem from="1739017456384" duration="22241000" />
     </task>
     <task id="LOCAL-00043" summary="P15657_N과_M_8">
       <created>1736943536863</created>
@@ -519,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739191525593</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="P19539_사과나무">
+      <created>1739192942585</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1739192942585</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2491_수열" />
     <MESSAGE value="P2477_참외밭" />
     <MESSAGE value="P11758_CCW" />
     <MESSAGE value="P2527_직사각형" />
@@ -562,7 +562,8 @@
     <MESSAGE value="싸피 과제 문제 풀이" />
     <MESSAGE value="P1182_부분수열의_합" />
     <MESSAGE value="P2615_오목" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2615_오목" />
+    <MESSAGE value="P19539_사과나무" />
+    <option name="LAST_COMMIT_MESSAGE" value="P19539_사과나무" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -808,9 +809,19 @@
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이_못품.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="177" />
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P19539_사과나무.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P19539_사과나무.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_14510_나무_높이.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="190" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
