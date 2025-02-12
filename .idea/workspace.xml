@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_14510_나무_높이">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P4485_녹색_옷_입은_애가_젤다지.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P4485_녹색_옷_입은_애가_젤다지">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,22 +45,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P4485_녹색_옷_입은_애가_젤다지">
+  <component name="RunManager" selected="Application.Solved_5656_벽돌_깨기">
     <configuration name="P19539_사과나무" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P19539_사과나무" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P2615_오목" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2615_오목" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solved_14510_나무_높이_못품" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_14510_나무_높이_못품" />
+    <configuration name="Solved_1949_등산로_조성" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1949_등산로_조성" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solved_5656_벽돌_깨기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_5656_벽돌_깨기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_5656_벽돌_깨기" />
+        <item itemvalue="Application.Solved_1949_등산로_조성" />
         <item itemvalue="Application.P4485_녹색_옷_입은_애가_젤다지" />
         <item itemvalue="Application.Solved_14510_나무_높이" />
         <item itemvalue="Application.P19539_사과나무" />
-        <item itemvalue="Application.Solved_14510_나무_높이_못품" />
-        <item itemvalue="Application.P2615_오목" />
       </list>
     </recent_temporary>
   </component>
@@ -174,14 +174,7 @@
       <workItem from="1738760733548" duration="2132000" />
       <workItem from="1738763008807" duration="3554000" />
       <workItem from="1738837780886" duration="8067000" />
-      <workItem from="1739017456384" duration="24650000" />
-    </task>
-    <task id="LOCAL-00044" summary="P2961_도영이가_만든_맛있는_음식">
-      <created>1736953171383</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1736953171383</updated>
+      <workItem from="1739017456384" duration="43087000" />
     </task>
     <task id="LOCAL-00045" summary="P17244_아맞다우산">
       <created>1737158632123</created>
@@ -519,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739276260876</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="P4485_녹색_옷_입은_애가_젤다지">
+      <created>1739278799115</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1739278799115</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P11758_CCW" />
     <MESSAGE value="P2527_직사각형" />
     <MESSAGE value="P10157_자리배정" />
     <MESSAGE value="P10158_개미" />
@@ -562,7 +561,8 @@
     <MESSAGE value="P2615_오목" />
     <MESSAGE value="P19539_사과나무" />
     <MESSAGE value="Solved_14510_나무_높이" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_14510_나무_높이" />
+    <MESSAGE value="P4485_녹색_옷_입은_애가_젤다지" />
+    <option name="LAST_COMMIT_MESSAGE" value="P4485_녹색_옷_입은_애가_젤다지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -822,7 +822,47 @@
           <line>49</line>
           <option name="timeStamp" value="190" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5656_벽돌_깨기.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coding_test_light$Solved_5656__.ic" NAME="Solved_5656_벽돌_깨기 Coverage Results" MODIFIED="1739358703365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SWEA.*</FILTER>
+    </SUITE>
   </component>
 </project>
