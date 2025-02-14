@@ -89,6 +89,7 @@ public class Solved_1767_프로세서_연결하기 {
         
         int T = Integer.parseInt(br.readLine());
         for (int t = 1; t <= T; t++) {
+			st = new StringTokenizer(br.readLine());
         	n = Integer.parseInt(br.readLine());
         	
         	arr = new int[n][n];
