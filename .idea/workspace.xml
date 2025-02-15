@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_1249_4일차_보급로">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_1861_정사각형_방.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_1861_정사각형_방">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_1267_10일차_작업순서.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solved_1861_정사각형_방">
+  <component name="RunManager" selected="Application.Solved_1267_10일차_작업순서">
     <configuration name="Solved_1249_4일차_보급로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1249_4일차_보급로" />
       <module name="coding-test-light" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solved_1861_정사각형_방" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1861_정사각형_방" />
+    <configuration name="Solved_1267_10일차_작업순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1267_10일차_작업순서" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solved_2105_디저트_카페" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_2105_디저트_카페" />
+    <configuration name="Solved_1861_정사각형_방" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1861_정사각형_방" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_1267_10일차_작업순서" />
         <item itemvalue="Application.Solved_1861_정사각형_방" />
         <item itemvalue="Application.Solved_1249_4일차_보급로" />
         <item itemvalue="Application.Solved_1251_4일차_하나로" />
         <item itemvalue="Application.Solved_5644_무선_충전" />
-        <item itemvalue="Application.Solved_2105_디저트_카페" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +176,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="23433000" />
-    </task>
-    <task id="LOCAL-00055" summary="P15655_N과_M_6">
-      <created>1737767892615</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1737767892615</updated>
+      <workItem from="1739529123890" duration="25909000" />
     </task>
     <task id="LOCAL-00056" summary="P15656_N과_M_7">
       <created>1737770030978</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739606799289</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Solved_1861_정사각형_방">
+      <created>1739608819465</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1739608819465</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2559_수열" />
     <MESSAGE value="P10163_색종이" />
     <MESSAGE value="P13300_방_배정" />
     <MESSAGE value="P14696_딱지_놀이" />
@@ -564,7 +563,8 @@
     <MESSAGE value="Solved_5644_무선_충전" />
     <MESSAGE value="Solved_1251_4일차_하나로" />
     <MESSAGE value="Solved_1249_4일차_보급로" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_1249_4일차_보급로" />
+    <MESSAGE value="Solved_1861_정사각형_방" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_1861_정사각형_방" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -892,7 +892,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/SWEA/Solved_1861_정사각형_방.java</url>
           <line>13</line>
-          <option name="timeStamp" value="258" />
+          <option name="timeStamp" value="261" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
