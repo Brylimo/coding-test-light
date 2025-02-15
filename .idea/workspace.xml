@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1008_A_divide_B">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_2105_디저트_카페.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_2105_디저트_카페">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEA/Solved_2105_디저트_카페.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/Solved_2105_디저트_카페.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,14 +176,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="11170000" />
-    </task>
-    <task id="LOCAL-00050" summary="P5568_카드_놓기">
-      <created>1737269190797</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1737269190797</updated>
+      <workItem from="1739529123890" duration="11905000" />
     </task>
     <task id="LOCAL-00051" summary="P2309_일곱_난쟁이">
       <created>1737378890684</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739578613110</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Solved_2105_디저트_카페">
+      <created>1739581131646</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1739581131646</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P1244_스위치_켜고_끄기" />
     <MESSAGE value="P2628_종이자르기" />
     <MESSAGE value="P2116_주사위_쌓기" />
     <MESSAGE value="P2304_창고_다각형" />
@@ -564,7 +563,8 @@
     <MESSAGE value="Solved_2117_홈_방범_서비스" />
     <MESSAGE value="Solved_4014_활주로_건설" />
     <MESSAGE value="P1008_A_divide_B" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1008_A_divide_B" />
+    <MESSAGE value="Solved_2105_디저트_카페" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_2105_디저트_카페" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -873,11 +873,6 @@
           <url>file://$PROJECT_DIR$/src/SWEA/Solved_4014_활주로_건설.java</url>
           <line>81</line>
           <option name="timeStamp" value="247" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SWEA/Solved_2105_디저트_카페.java</url>
-          <line>92</line>
-          <option name="timeStamp" value="252" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
