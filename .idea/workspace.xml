@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_2105_디저트_카페">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_5644_무선_충전.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_5644_무선_충전">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_1251_4일차_하나로.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solved_5644_무선_충전">
+  <component name="RunManager" selected="Application.Solved_1251_4일차_하나로">
     <configuration name="P1008_A_divide_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1008_A_divide_B" />
       <module name="coding-test-light" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solved_1767_프로세서_연결하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1767_프로세서_연결하기" />
+    <configuration name="Solved_1251_4일차_하나로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1251_4일차_하나로" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_1251_4일차_하나로" />
         <item itemvalue="Application.Solved_5644_무선_충전" />
         <item itemvalue="Application.Solved_2105_디저트_카페" />
         <item itemvalue="Application.P1008_A_divide_B" />
         <item itemvalue="Application.Solved_4014_활주로_건설" />
-        <item itemvalue="Application.Solved_1767_프로세서_연결하기" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +176,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="16719000" />
-    </task>
-    <task id="LOCAL-00052" summary="싸피 과제 문제 풀이">
-      <created>1737465118055</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1737465118055</updated>
+      <workItem from="1739529123890" duration="19585000" />
     </task>
     <task id="LOCAL-00053" summary="싸피 과제 문제 풀이">
       <created>1737641496457</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739584389816</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Solved_5644_무선_충전">
+      <created>1739596358758</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1739596358758</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2628_종이자르기" />
     <MESSAGE value="P2116_주사위_쌓기" />
     <MESSAGE value="P2304_창고_다각형" />
     <MESSAGE value="P2559_수열" />
@@ -564,7 +563,8 @@
     <MESSAGE value="Solved_4014_활주로_건설" />
     <MESSAGE value="P1008_A_divide_B" />
     <MESSAGE value="Solved_2105_디저트_카페" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_2105_디저트_카페" />
+    <MESSAGE value="Solved_5644_무선_충전" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_5644_무선_충전" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,6 +883,11 @@
           <url>file://$PROJECT_DIR$/src/SWEA/Solved_5644_무선_충전.java</url>
           <line>70</line>
           <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_1251_4일차_하나로.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="257" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
