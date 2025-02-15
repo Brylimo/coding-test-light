@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_2105_디저트_카페">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_5644_무선_충전.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/Solved_2105_디저트_카페.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/Solved_2105_디저트_카페.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solved_2105_디저트_카페">
+  <component name="RunManager" selected="Application.Solved_5644_무선_충전">
     <configuration name="P1008_A_divide_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1008_A_divide_B" />
       <module name="coding-test-light" />
@@ -98,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.abc" />
+    <configuration name="Solved_5644_무선_충전" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_5644_무선_충전" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_5644_무선_충전" />
         <item itemvalue="Application.Solved_2105_디저트_카페" />
         <item itemvalue="Application.P1008_A_divide_B" />
         <item itemvalue="Application.Solved_4014_활주로_건설" />
         <item itemvalue="Application.Solved_1767_프로세서_연결하기" />
-        <item itemvalue="Application.abc" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +176,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="11905000" />
-    </task>
-    <task id="LOCAL-00051" summary="P2309_일곱_난쟁이">
-      <created>1737378890684</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1737378890685</updated>
+      <workItem from="1739529123890" duration="16719000" />
     </task>
     <task id="LOCAL-00052" summary="싸피 과제 문제 풀이">
       <created>1737465118055</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739581131646</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Solved_2105_디저트_카페">
+      <created>1739584389816</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1739584389816</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -873,6 +873,16 @@
           <url>file://$PROJECT_DIR$/src/SWEA/Solved_4014_활주로_건설.java</url>
           <line>81</line>
           <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5644_무선_충전.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_5644_무선_충전.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="256" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
