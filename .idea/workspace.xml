@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_1267_10일차_작업순서">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P17471_게리맨더링.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P17471_게리맨더링">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1368_물대기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P17471_게리맨더링">
+  <component name="RunManager" selected="Application.P1368_물대기">
+    <configuration name="P1368_물대기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1368_물대기" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P17471_게리맨더링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P17471_게리맨더링" />
       <module name="coding-test-light" />
@@ -61,19 +74,6 @@
     </configuration>
     <configuration name="Solved_1249_4일차_보급로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1249_4일차_보급로" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solved_1251_4일차_하나로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_1251_4일차_하나로" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1368_물대기" />
         <item itemvalue="Application.P17471_게리맨더링" />
         <item itemvalue="Application.Solved_1267_10일차_작업순서" />
         <item itemvalue="Application.Solved_1861_정사각형_방" />
         <item itemvalue="Application.Solved_1249_4일차_보급로" />
-        <item itemvalue="Application.Solved_1251_4일차_하나로" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +176,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="44843000" />
-    </task>
-    <task id="LOCAL-00057" summary="P15663_N과_M_9">
-      <created>1737784124241</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1737784124241</updated>
+      <workItem from="1739529123890" duration="48556000" />
     </task>
     <task id="LOCAL-00058" summary="P15663_N과_M_10">
       <created>1737785224768</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739617610093</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="P17471_게리맨더링">
+      <created>1739672873518</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1739672873518</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P13300_방_배정" />
     <MESSAGE value="P14696_딱지_놀이" />
     <MESSAGE value="P5427_불" />
     <MESSAGE value="P3015_오아시스_재결합" />
@@ -564,7 +563,8 @@
     <MESSAGE value="Solved_1249_4일차_보급로" />
     <MESSAGE value="Solved_1861_정사각형_방" />
     <MESSAGE value="Solved_1267_10일차_작업순서" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_1267_10일차_작업순서" />
+    <MESSAGE value="P17471_게리맨더링" />
+    <option name="LAST_COMMIT_MESSAGE" value="P17471_게리맨더링" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -896,8 +896,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P17471_게리맨더링.java</url>
-          <line>105</line>
+          <line>117</line>
           <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P1368_물대기.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="284" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
