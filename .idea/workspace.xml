@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1333_부재중_전화">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_16504_Gravity.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_16504_Gravity">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P20299_3대_측정.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +51,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solved_16504_Gravity">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SsafyHomework.Main" />
+  <component name="RunManager" selected="Application.P20299_3대_측정">
+    <configuration name="P1333_부재중_전화" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1333_부재중_전화" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="Baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1333_부재중_전화" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1333_부재중_전화" />
+    <configuration name="P20299_3대_측정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P20299_3대_측정" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P20299_3대_측정" />
         <item itemvalue="Application.Solved_16504_Gravity" />
         <item itemvalue="Application.P1333_부재중_전화" />
         <item itemvalue="Application.P2931_가스관_못품" />
         <item itemvalue="Application.P2931_가스관" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -182,14 +182,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="67838000" />
-    </task>
-    <task id="LOCAL-00060" summary="P15666_N과_M_12">
-      <created>1737794209295</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1737794209295</updated>
+      <workItem from="1739529123890" duration="69567000" />
     </task>
     <task id="LOCAL-00061" summary="P2605_줄_세우기">
       <created>1737796740261</created>
@@ -527,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739697990452</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Solved_16504_Gravity">
+      <created>1739707461103</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1739707461103</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P3015_오아시스_재결합" />
     <MESSAGE value="P14681_사분면_고르기" />
     <MESSAGE value="P1085_직사각형에서_탈출" />
     <MESSAGE value="P1822_차집합" />
@@ -570,7 +569,8 @@
     <MESSAGE value="P17471_게리맨더링" />
     <MESSAGE value="P1368_물대기" />
     <MESSAGE value="P1333_부재중_전화" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1333_부재중_전화" />
+    <MESSAGE value="Solved_16504_Gravity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_16504_Gravity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -924,6 +924,11 @@
           <url>file://$PROJECT_DIR$/src/SWEA/Solved_16504_Gravity.java</url>
           <line>42</line>
           <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P20299_3대_측정.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="312" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
