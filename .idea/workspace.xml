@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P17135_캐슬_디펜스">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_7465_창용_마을_무리의_개수.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_7465_창용_마을_무리의_개수">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2407_조합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_5653_줄기세포배양.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solved_7465_창용_마을_무리의_개수">
+  <component name="RunManager" selected="Application.P2407_조합">
     <configuration name="P17135_캐슬_디펜스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P17135_캐슬_디펜스" />
       <module name="coding-test-light" />
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solved_16504_Gravity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_16504_Gravity" />
+    <configuration name="P2407_조합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2407_조합" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="Baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2407_조합" />
         <item itemvalue="Application.Solved_7465_창용_마을_무리의_개수" />
         <item itemvalue="Application.P17135_캐슬_디펜스" />
         <item itemvalue="Application.P17952_과제는_끝나지_않아" />
         <item itemvalue="Application.P20299_3대_측정" />
-        <item itemvalue="Application.Solved_16504_Gravity" />
       </list>
     </recent_temporary>
   </component>
@@ -182,14 +183,7 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="81336000" />
-    </task>
-    <task id="LOCAL-00064" summary="P2563_색종이">
-      <created>1737862023905</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1737862023905</updated>
+      <workItem from="1739529123890" duration="84564000" />
     </task>
     <task id="LOCAL-00065" summary="P2564_경비원">
       <created>1737867965887</created>
@@ -527,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739797465196</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Solved_7465_창용_마을_무리의_개수">
+      <created>1739799328740</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1739799328740</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P9012_괄호" />
     <MESSAGE value="싸피 과제 문제 풀이" />
     <MESSAGE value="P1182_부분수열의_합" />
     <MESSAGE value="P2615_오목" />
@@ -570,7 +570,8 @@
     <MESSAGE value="P20299_3대_측정" />
     <MESSAGE value="P17952_과제는_끝나지_않아" />
     <MESSAGE value="P17135_캐슬_디펜스" />
-    <option name="LAST_COMMIT_MESSAGE" value="P17135_캐슬_디펜스" />
+    <MESSAGE value="Solved_7465_창용_마을_무리의_개수" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_7465_창용_마을_무리의_개수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
