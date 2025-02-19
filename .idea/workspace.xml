@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_7465_창용_마을_무리의_개수">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2407_조합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_5653_줄기세포배양.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2407_조합">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1238_파티.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2407_조합">
+  <component name="RunManager" selected="Application.P1238_파티">
+    <configuration name="P1238_파티" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1238_파티" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P17135_캐슬_디펜스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P17135_캐슬_디펜스" />
       <module name="coding-test-light" />
@@ -68,19 +80,6 @@
     </configuration>
     <configuration name="P17952_과제는_끝나지_않아" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P17952_과제는_끝나지_않아" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P20299_3대_측정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P20299_3대_측정" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1238_파티" />
         <item itemvalue="Application.P2407_조합" />
         <item itemvalue="Application.Solved_7465_창용_마을_무리의_개수" />
         <item itemvalue="Application.P17135_캐슬_디펜스" />
         <item itemvalue="Application.P17952_과제는_끝나지_않아" />
-        <item itemvalue="Application.P20299_3대_측정" />
       </list>
     </recent_temporary>
   </component>
@@ -183,14 +182,8 @@
       <workItem from="1738837780886" duration="8067000" />
       <workItem from="1739017456384" duration="43087000" />
       <workItem from="1739367925450" duration="9569000" />
-      <workItem from="1739529123890" duration="84564000" />
-    </task>
-    <task id="LOCAL-00065" summary="P2564_경비원">
-      <created>1737867965887</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1737867965887</updated>
+      <workItem from="1739529123890" duration="85083000" />
+      <workItem from="1739962373655" duration="3518000" />
     </task>
     <task id="LOCAL-00066" summary="P2491_수열">
       <created>1737876899297</created>
@@ -528,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739799328740</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="P2407_조합">
+      <created>1739802529646</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1739802529646</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="싸피 과제 문제 풀이" />
     <MESSAGE value="P1182_부분수열의_합" />
     <MESSAGE value="P2615_오목" />
     <MESSAGE value="P19539_사과나무" />
@@ -571,7 +570,8 @@
     <MESSAGE value="P17952_과제는_끝나지_않아" />
     <MESSAGE value="P17135_캐슬_디펜스" />
     <MESSAGE value="Solved_7465_창용_마을_무리의_개수" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_7465_창용_마을_무리의_개수" />
+    <MESSAGE value="P2407_조합" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2407_조합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
