@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11660_구간_합_구하기5.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_1225_암호생성기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11723_집합.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P11660_구간_합_구하기5">
+  <component name="RunManager" selected="Application.P11723_집합">
     <configuration name="P1021_회전하는_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1021_회전하는_큐" />
       <module name="coding-test-light" />
@@ -67,6 +67,19 @@
     </configuration>
     <configuration name="P11660_구간_합_구하기5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P11660_구간_합_구하기5" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P11723_집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11723_집합" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2407_조합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2407_조합" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P11723_집합" />
         <item itemvalue="Application.P11660_구간_합_구하기5" />
         <item itemvalue="Application.P16919_봄버맨2" />
         <item itemvalue="Application.P1021_회전하는_큐" />
         <item itemvalue="Application.P1238_파티" />
-        <item itemvalue="Application.P2407_조합" />
       </list>
     </recent_temporary>
   </component>
@@ -184,20 +184,7 @@
       <workItem from="1739367925450" duration="9569000" />
       <workItem from="1739529123890" duration="85083000" />
       <workItem from="1739962373655" duration="15053000" />
-    </task>
-    <task id="LOCAL-00069" summary="P2527_직사각형">
-      <created>1737950692319</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1737950692319</updated>
-    </task>
-    <task id="LOCAL-00070" summary="P10157_자리배정">
-      <created>1737953220900</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1737953220900</updated>
+      <workItem from="1740055083612" duration="3438000" />
     </task>
     <task id="LOCAL-00071" summary="P10158_개미">
       <created>1737965582852</created>
@@ -528,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740052696331</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="P11660_구간_합_구하기5">
+      <created>1740056016863</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1740056016863</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Solved_1225_암호생성기">
+      <created>1740140966656</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1740140966656</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,8 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_14510_나무_높이" />
-    <MESSAGE value="P4485_녹색_옷_입은_애가_젤다지" />
     <MESSAGE value="Solved_5656_벽돌_깨기" />
     <MESSAGE value="Solved_1953_탈주범_검거" />
     <MESSAGE value="Solved_2117_홈_방범_서비스" />
@@ -571,7 +570,9 @@
     <MESSAGE value="P1238_파티" />
     <MESSAGE value="P1021_회전하는_큐" />
     <MESSAGE value="P16919_봄버맨2" />
-    <option name="LAST_COMMIT_MESSAGE" value="P16919_봄버맨2" />
+    <MESSAGE value="P11660_구간_합_구하기5" />
+    <MESSAGE value="Solved_1225_암호생성기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_1225_암호생성기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
