@@ -1,9 +1,18 @@
 package Baekjoon;
 
-import java.sql.Array;
 import java.util.*;
 import java.io.*;
 
+/**
+ * P1038_감소하는_수
+ * 난이도 3/10
+ * 백트래킹
+ * 172ms
+ *
+ * 백트래킹으로 감소하는 수에 해당하는 모든 수를 구하여 저장하고
+ * 정렬을 한 뒤 입력으로 주어진 n 값에 맞는 감소하는 수를
+ *
+ */
 public class P1038_감소하는_수 {
     static int n, ans;
     static int[] arr = new int[10];
