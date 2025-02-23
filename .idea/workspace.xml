@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_3421_수제_버거_장인_임채진">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P10986_나머지_합.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P10986_나머지_합">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1038_감소하는_수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P3040_백설_공주와_일곱_난쟁이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +52,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P10986_나머지_합">
-    <configuration name="P1021_회전하는_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1021_회전하는_큐" />
+  <component name="RunManager" selected="Application.P1038_감소하는_수">
+    <configuration name="P1038_감소하는_수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1038_감소하는_수" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1038_감소하는_수" />
         <item itemvalue="Application.P10986_나머지_합" />
         <item itemvalue="Application.P11723_집합" />
         <item itemvalue="Application.P11660_구간_합_구하기5" />
         <item itemvalue="Application.P16919_봄버맨2" />
-        <item itemvalue="Application.P1021_회전하는_큐" />
       </list>
     </recent_temporary>
   </component>
@@ -188,14 +189,8 @@
       <workItem from="1740143314394" duration="1602000" />
       <workItem from="1740225918951" duration="8000" />
       <workItem from="1740228807251" duration="6000" />
-      <workItem from="1740228815157" duration="7728000" />
-    </task>
-    <task id="LOCAL-00073" summary="P2635_수_이어가기">
-      <created>1737969538137</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1737969538138</updated>
+      <workItem from="1740228815157" duration="9670000" />
+      <workItem from="1740306138410" duration="5058000" />
     </task>
     <task id="LOCAL-00074" summary="P1244_스위치_켜고_끄기">
       <created>1738033354025</created>
@@ -533,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740144315588</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="P10986_나머지_합">
+      <created>1740238392272</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1740238392273</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_2117_홈_방범_서비스" />
     <MESSAGE value="Solved_4014_활주로_건설" />
     <MESSAGE value="P1008_A_divide_B" />
     <MESSAGE value="Solved_2105_디저트_카페" />
@@ -576,7 +577,8 @@
     <MESSAGE value="Solved_1225_암호생성기" />
     <MESSAGE value="P11723_집합" />
     <MESSAGE value="Solved_3421_수제_버거_장인_임채진" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_3421_수제_버거_장인_임채진" />
+    <MESSAGE value="P10986_나머지_합" />
+    <option name="LAST_COMMIT_MESSAGE" value="P10986_나머지_합" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -963,7 +965,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P10986_나머지_합.java</url>
-          <line>36</line>
+          <line>48</line>
           <option name="timeStamp" value="349" />
         </line-breakpoint>
       </breakpoints>
