@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P10799_쇠막대기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11724_연결_요소의_개수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2504_괄호의_값_못품.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P11724_연결_요소의_개수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P2023_신기한_소수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P2023_신기한_소수.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P11724_연결_요소의_개수">
+  <component name="RunManager" selected="Application.P2023_신기한_소수">
     <configuration name="P1038_감소하는_수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1038_감소하는_수" />
       <module name="coding-test-light" />
@@ -79,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P10986_나머지_합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P10986_나머지_합" />
+    <configuration name="P11724_연결_요소의_개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11724_연결_요소의_개수" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11724_연결_요소의_개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11724_연결_요소의_개수" />
+    <configuration name="P2023_신기한_소수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2023_신기한_소수" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2023_신기한_소수" />
         <item itemvalue="Application.P11724_연결_요소의_개수" />
         <item itemvalue="Application.P10799_쇠막대기" />
         <item itemvalue="Application.P3040_백설_공주와_일곱_난쟁이" />
         <item itemvalue="Application.P1038_감소하는_수" />
-        <item itemvalue="Application.P10986_나머지_합" />
       </list>
     </recent_temporary>
   </component>
@@ -192,14 +191,7 @@
       <workItem from="1740228815157" duration="9670000" />
       <workItem from="1740306138410" duration="5924000" />
       <workItem from="1740313816720" duration="812000" />
-      <workItem from="1740317507282" duration="6107000" />
-    </task>
-    <task id="LOCAL-00077" summary="P2304_창고_다각형">
-      <created>1738057890514</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1738057890514</updated>
+      <workItem from="1740317507282" duration="7995000" />
     </task>
     <task id="LOCAL-00078" summary="P2559_수열">
       <created>1738059235187</created>
@@ -537,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740395401709</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="P11724_연결_요소의_개수">
+      <created>1740401262682</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1740401262682</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_5644_무선_충전" />
     <MESSAGE value="Solved_1251_4일차_하나로" />
     <MESSAGE value="Solved_1249_4일차_보급로" />
     <MESSAGE value="Solved_1861_정사각형_방" />
@@ -580,7 +578,8 @@
     <MESSAGE value="P1038_감소하는_수" />
     <MESSAGE value="P3040_백설_공주와_일곱_난쟁이" />
     <MESSAGE value="P10799_쇠막대기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P10799_쇠막대기" />
+    <MESSAGE value="P11724_연결_요소의_개수" />
+    <option name="LAST_COMMIT_MESSAGE" value="P11724_연결_요소의_개수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -979,6 +978,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P10799_쇠막대기.java</url>
           <line>20</line>
           <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P2023_신기한_소수.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="352" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
