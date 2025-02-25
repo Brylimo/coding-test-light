@@ -20,15 +20,8 @@ public class P1038_감소하는_수 {
     static ArrayList<String> list = new ArrayList<>();
 
     static void calculate(int idx, String s) {
-        if (candidates.size() == 7) {
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < candidates.size(); i++) {
-                sb.append(candidates.get(i));
-            }
-
-            if (sb.toString() != "1000000") {
-                return;
-            }
+        if (list.size() > 1000000) {
+            return;
         }
 
         for (int i = 0; i < 10; i++) {
