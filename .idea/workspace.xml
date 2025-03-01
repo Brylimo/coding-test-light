@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1914_하노이_탑">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2157_여행.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P3109_빵집.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P3109_빵집">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1269_대칭_차집합.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEA/Solved_1861_정사각형_방.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/Solved_1861_정사각형_방.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2157_여행">
+  <component name="RunManager" selected="Application.P1269_대칭_차집합">
+    <configuration name="P1269_대칭_차집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1269_대칭_차집합" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P14890_경사로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P14890_경사로" />
       <module name="coding-test-light" />
@@ -106,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2629_양팔저울" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2629_양팔저울" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1269_대칭_차집합" />
         <item itemvalue="Application.P2157_여행" />
         <item itemvalue="Application.P1914_하노이_탑" />
         <item itemvalue="Application.P2623_음악프로그램" />
         <item itemvalue="Application.P14890_경사로" />
-        <item itemvalue="Application.P2629_양팔저울" />
       </list>
     </recent_temporary>
   </component>
@@ -198,13 +196,8 @@
       <workItem from="1740570882951" duration="146000" />
       <workItem from="1740571929269" duration="2993000" />
       <workItem from="1740651917699" duration="2760000" />
-    </task>
-    <task id="LOCAL-00084" summary="P14681_사분면_고르기">
-      <created>1738224569452</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1738224569452</updated>
+      <workItem from="1740654690013" duration="639000" />
+      <workItem from="1740836444730" duration="648000" />
     </task>
     <task id="LOCAL-00085" summary="P1085_직사각형에서_탈출">
       <created>1738225001159</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740566634106</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="P3109_빵집">
+      <created>1740654706215</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1740654706215</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +560,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P1333_부재중_전화" />
     <MESSAGE value="Solved_16504_Gravity" />
     <MESSAGE value="P20299_3대_측정" />
     <MESSAGE value="P17952_과제는_끝나지_않아" />
@@ -585,7 +584,8 @@
     <MESSAGE value="P2504_괄호의_값" />
     <MESSAGE value="P14890_경사로" />
     <MESSAGE value="P1914_하노이_탑" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1914_하노이_탑" />
+    <MESSAGE value="P3109_빵집" />
+    <option name="LAST_COMMIT_MESSAGE" value="P3109_빵집" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,6 +1004,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2157_여행.java</url>
           <line>88</line>
           <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P1269_대칭_차집합.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="366" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
