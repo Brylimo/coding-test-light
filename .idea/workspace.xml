@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P10159_저울">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1799_비숍.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1799_비숍">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14865_곡선_자르기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P9465_스티커.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_no3_pro_승강제리그.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P1722_순열의_순서.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P1722_순열의_순서.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +54,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1799_비숍">
-    <configuration name="P10159_저울" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P10159_저울" />
+  <component name="RunManager" selected="Application.P9465_스티커">
+    <configuration name="P14865_곡선_자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14865_곡선_자르기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1269_대칭_차집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1269_대칭_차집합" />
+    <configuration name="P1722_순열의_순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1722_순열의_순서" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1914_하노이_탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1914_하노이_탑" />
+    <configuration name="P9465_스티커" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P9465_스티커" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2157_여행" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2157_여행" />
+    <configuration name="Solved_no3_pro_승강제리그" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_no3_pro_승강제리그" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="PATTERN" value="SWEA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P9465_스티커" />
+        <item itemvalue="Application.Solved_no3_pro_승강제리그" />
+        <item itemvalue="Application.P14865_곡선_자르기" />
+        <item itemvalue="Application.P1722_순열의_순서" />
         <item itemvalue="Application.P1799_비숍" />
-        <item itemvalue="Application.P10159_저울" />
-        <item itemvalue="Application.P1269_대칭_차집합" />
-        <item itemvalue="Application.P2157_여행" />
-        <item itemvalue="Application.P1914_하노이_탑" />
       </list>
     </recent_temporary>
   </component>
@@ -198,13 +201,7 @@
       <workItem from="1740651917699" duration="2760000" />
       <workItem from="1740654690013" duration="639000" />
       <workItem from="1740836444730" duration="13465000" />
-    </task>
-    <task id="LOCAL-00087" summary="P9012_괄호">
-      <created>1738666287809</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1738666287809</updated>
+      <workItem from="1740993148342" duration="28114000" />
     </task>
     <task id="LOCAL-00088" summary="싸피 과제 문제 풀이">
       <created>1738766167721</created>
@@ -542,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740903745452</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="P1799_비숍">
+      <created>1741001680306</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1741001680306</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P17952_과제는_끝나지_않아" />
     <MESSAGE value="P17135_캐슬_디펜스" />
     <MESSAGE value="Solved_7465_창용_마을_무리의_개수" />
     <MESSAGE value="P2407_조합" />
@@ -585,7 +588,8 @@
     <MESSAGE value="P3109_빵집" />
     <MESSAGE value="P1269_대칭_차집합" />
     <MESSAGE value="P10159_저울" />
-    <option name="LAST_COMMIT_MESSAGE" value="P10159_저울" />
+    <MESSAGE value="P1799_비숍" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1799_비숍" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,16 +673,6 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P15657_N과_M_8.java</url>
           <line>29</line>
           <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Baekjoon/P1722_순열의_순서.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Baekjoon/P1722_순열의_순서.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P17244_아맞다우산.java</url>
@@ -1009,6 +1003,16 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P1269_대칭_차집합.java</url>
           <line>35</line>
           <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P1722_순열의_순서.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P14865_곡선_자르기.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="374" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
