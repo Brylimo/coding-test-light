@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_1251_4일차_하나로">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1654_랜선_자르기.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1654_랜선_자르기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2240_자두나무2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEA/Solved_성적조회.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA/Solved_성적조회.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +52,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1654_랜선_자르기">
-    <configuration name="P14865_곡선_자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14865_곡선_자르기" />
+  <component name="RunManager" selected="Application.P2240_자두나무2">
+    <configuration name="P1654_랜선_자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1654_랜선_자르기" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1654_랜선_자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1654_랜선_자르기" />
+    <configuration name="P2240_자두나무2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2240_자두나무2" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2240_자두나무2" />
         <item itemvalue="Application.P1654_랜선_자르기" />
         <item itemvalue="Application.Solved_성적조회" />
         <item itemvalue="Application.P9465_스티커" />
         <item itemvalue="Application.Solved_no3_pro_승강제리그" />
-        <item itemvalue="Application.P14865_곡선_자르기" />
       </list>
     </recent_temporary>
   </component>
@@ -199,14 +200,7 @@
       <workItem from="1740654690013" duration="639000" />
       <workItem from="1740836444730" duration="13465000" />
       <workItem from="1740993148342" duration="31957000" />
-      <workItem from="1741603505253" duration="11562000" />
-    </task>
-    <task id="LOCAL-00091" summary="P19539_사과나무">
-      <created>1739192942585</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1739192942585</updated>
+      <workItem from="1741603505253" duration="15685000" />
     </task>
     <task id="LOCAL-00092" summary="Solved_14510_나무_높이">
       <created>1739276260876</created>
@@ -544,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741613471042</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="P1654_랜선_자르기">
+      <created>1741698452838</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1741698452838</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P1238_파티" />
     <MESSAGE value="P1021_회전하는_큐" />
     <MESSAGE value="P16919_봄버맨2" />
     <MESSAGE value="P11660_구간_합_구하기5" />
@@ -587,7 +587,8 @@
     <MESSAGE value="P9465_스티커" />
     <MESSAGE value="Solved_5643_키_순서" />
     <MESSAGE value="Solved_1251_4일차_하나로" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_1251_4일차_하나로" />
+    <MESSAGE value="P1654_랜선_자르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1654_랜선_자르기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
