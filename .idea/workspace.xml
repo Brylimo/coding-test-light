@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2240_자두나무2">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1759_암호만들기.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1759_암호만들기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2056_작업.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P7795_먹을_것인가_먹힐_것인가.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_AI_로봇.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_리스트_복사.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1759_암호만들기">
+  <component name="RunManager" selected="Application.P7795_먹을_것인가_먹힐_것인가">
     <configuration name="P1654_랜선_자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1654_랜선_자르기" />
       <module name="coding-test-light" />
@@ -78,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2056_작업" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2056_작업" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P2240_자두나무2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P2240_자두나무2" />
       <module name="coding-test-light" />
@@ -91,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9465_스티커" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P9465_스티커" />
+    <configuration name="P7795_먹을_것인가_먹힐_것인가" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P7795_먹을_것인가_먹힐_것인가" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solved_성적조회" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_성적조회" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P7795_먹을_것인가_먹힐_것인가" />
+        <item itemvalue="Application.P2056_작업" />
         <item itemvalue="Application.P1759_암호만들기" />
         <item itemvalue="Application.P2240_자두나무2" />
         <item itemvalue="Application.P1654_랜선_자르기" />
-        <item itemvalue="Application.Solved_성적조회" />
-        <item itemvalue="Application.P9465_스티커" />
       </list>
     </recent_temporary>
   </component>
@@ -200,14 +203,8 @@
       <workItem from="1740836444730" duration="13465000" />
       <workItem from="1740993148342" duration="31957000" />
       <workItem from="1741603505253" duration="17562000" />
-      <workItem from="1741786718545" duration="922000" />
-    </task>
-    <task id="LOCAL-00093" summary="P4485_녹색_옷_입은_애가_젤다지">
-      <created>1739278799115</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1739278799115</updated>
+      <workItem from="1741786718545" duration="16252000" />
+      <workItem from="1742122014682" duration="6789000" />
     </task>
     <task id="LOCAL-00094" summary="Solved_5656_벽돌_깨기">
       <created>1739367939671</created>
@@ -545,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741777737845</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="P1759_암호만들기">
+      <created>1741789575983</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1741789575983</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P16919_봄버맨2" />
     <MESSAGE value="P11660_구간_합_구하기5" />
     <MESSAGE value="Solved_1225_암호생성기" />
     <MESSAGE value="P11723_집합" />
@@ -588,7 +591,8 @@
     <MESSAGE value="Solved_1251_4일차_하나로" />
     <MESSAGE value="P1654_랜선_자르기" />
     <MESSAGE value="P2240_자두나무2" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2240_자두나무2" />
+    <MESSAGE value="P1759_암호만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1759_암호만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1007,6 +1011,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P14865_곡선_자르기.java</url>
           <line>120</line>
           <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P7795_먹을_것인가_먹힐_것인가.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="378" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
