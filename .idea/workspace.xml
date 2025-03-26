@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2473_세_용액.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2473_세_용액">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P5557_1학년.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2473_세_용액">
+  <component name="RunManager" selected="Application.P5557_1학년">
     <configuration name="P1759_암호만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1759_암호만들기" />
       <module name="coding-test-light" />
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2240_자두나무2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2240_자두나무2" />
+    <configuration name="P2473_세_용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2473_세_용액" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2473_세_용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2473_세_용액" />
+    <configuration name="P5557_1학년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P5557_1학년" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5557_1학년" />
         <item itemvalue="Application.P2473_세_용액" />
         <item itemvalue="Application.P7795_먹을_것인가_먹힐_것인가" />
         <item itemvalue="Application.P2056_작업" />
         <item itemvalue="Application.P1759_암호만들기" />
-        <item itemvalue="Application.P2240_자두나무2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +202,7 @@
       <workItem from="1741603505253" duration="17562000" />
       <workItem from="1741786718545" duration="16252000" />
       <workItem from="1742122014682" duration="12610000" />
-    </task>
-    <task id="LOCAL-00095" summary="Solved_1953_탈주범_검거">
-      <created>1739443320134</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1739443320134</updated>
+      <workItem from="1742985571784" duration="3522000" />
     </task>
     <task id="LOCAL-00096" summary="Solved_2117_홈_방범_서비스">
       <created>1739450725102</created>
@@ -546,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742298338231</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="P2473_세_용액">
+      <created>1742985689901</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1742985689902</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_1225_암호생성기" />
     <MESSAGE value="P11723_집합" />
     <MESSAGE value="Solved_3421_수제_버거_장인_임채진" />
     <MESSAGE value="P10986_나머지_합" />
@@ -589,7 +589,8 @@
     <MESSAGE value="P2240_자두나무2" />
     <MESSAGE value="P1759_암호만들기" />
     <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
-    <option name="LAST_COMMIT_MESSAGE" value="P7795_먹을_것인가_먹힐_것인가" />
+    <MESSAGE value="P2473_세_용액" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2473_세_용액" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
