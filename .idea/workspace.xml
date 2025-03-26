@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1759_암호만들기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2056_작업.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P7795_먹을_것인가_먹힐_것인가.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_AI_로봇.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_리스트_복사.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2473_세_용액.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P7795_먹을_것인가_먹힐_것인가">
-    <configuration name="P1654_랜선_자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1654_랜선_자르기" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P2473_세_용액">
     <configuration name="P1759_암호만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1759_암호만들기" />
       <module name="coding-test-light" />
@@ -107,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2473_세_용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2473_세_용액" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P7795_먹을_것인가_먹힐_것인가" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P7795_먹을_것인가_먹힐_것인가" />
       <module name="coding-test-light" />
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2473_세_용액" />
         <item itemvalue="Application.P7795_먹을_것인가_먹힐_것인가" />
         <item itemvalue="Application.P2056_작업" />
         <item itemvalue="Application.P1759_암호만들기" />
         <item itemvalue="Application.P2240_자두나무2" />
-        <item itemvalue="Application.P1654_랜선_자르기" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +201,7 @@
       <workItem from="1740993148342" duration="31957000" />
       <workItem from="1741603505253" duration="17562000" />
       <workItem from="1741786718545" duration="16252000" />
-      <workItem from="1742122014682" duration="6789000" />
-    </task>
-    <task id="LOCAL-00094" summary="Solved_5656_벽돌_깨기">
-      <created>1739367939671</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1739367939671</updated>
+      <workItem from="1742122014682" duration="12610000" />
     </task>
     <task id="LOCAL-00095" summary="Solved_1953_탈주범_검거">
       <created>1739443320134</created>
@@ -549,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741789575983</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="P7795_먹을_것인가_먹힐_것인가">
+      <created>1742298338230</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1742298338231</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P11660_구간_합_구하기5" />
     <MESSAGE value="Solved_1225_암호생성기" />
     <MESSAGE value="P11723_집합" />
     <MESSAGE value="Solved_3421_수제_버거_장인_임채진" />
@@ -592,7 +588,8 @@
     <MESSAGE value="P1654_랜선_자르기" />
     <MESSAGE value="P2240_자두나무2" />
     <MESSAGE value="P1759_암호만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1759_암호만들기" />
+    <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
+    <option name="LAST_COMMIT_MESSAGE" value="P7795_먹을_것인가_먹힐_것인가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
