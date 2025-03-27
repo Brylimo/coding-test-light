@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5557_1학년">
-      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_3124_최소_스패닝_트리.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_3124_최소_스패닝_트리">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_2383_점심_식사_시간.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,20 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P5557_1학년">
-    <configuration name="P1759_암호만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1759_암호만들기" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solved_2383_점심_식사_시간">
     <configuration name="P2056_작업" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P2056_작업" />
       <module name="coding-test-light" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solved_2383_점심_식사_시간" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_2383_점심_식사_시간" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solved_2383_점심_식사_시간" />
         <item itemvalue="Application.P5557_1학년" />
         <item itemvalue="Application.P2473_세_용액" />
         <item itemvalue="Application.P7795_먹을_것인가_먹힐_것인가" />
         <item itemvalue="Application.P2056_작업" />
-        <item itemvalue="Application.P1759_암호만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -203,14 +203,7 @@
       <workItem from="1741786718545" duration="16252000" />
       <workItem from="1742122014682" duration="12610000" />
       <workItem from="1742985571784" duration="4364000" />
-      <workItem from="1743081170972" duration="319000" />
-    </task>
-    <task id="LOCAL-00097" summary="Solved_4014_활주로_건설">
-      <created>1739541959271</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1739541959271</updated>
+      <workItem from="1743081170972" duration="5493000" />
     </task>
     <task id="LOCAL-00098" summary="P1008_A_divide_B">
       <created>1739578613110</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742990501179</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Solved_3124_최소_스패닝_트리">
+      <created>1743081862339</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1743081862339</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_3421_수제_버거_장인_임채진" />
     <MESSAGE value="P10986_나머지_합" />
     <MESSAGE value="P1038_감소하는_수" />
     <MESSAGE value="P3040_백설_공주와_일곱_난쟁이" />
@@ -591,7 +590,8 @@
     <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
     <MESSAGE value="P2473_세_용액" />
     <MESSAGE value="P5557_1학년" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5557_1학년" />
+    <MESSAGE value="Solved_3124_최소_스패닝_트리" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved_3124_최소_스패닝_트리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1015,6 +1015,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P7795_먹을_것인가_먹힐_것인가.java</url>
           <line>49</line>
           <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SWEA/Solved_2383_점심_식사_시간.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="380" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
