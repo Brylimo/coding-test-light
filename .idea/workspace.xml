@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2473_세_용액">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P5557_1학년.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5557_1학년">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/Solved_3124_최소_스패닝_트리.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,14 +202,8 @@
       <workItem from="1741603505253" duration="17562000" />
       <workItem from="1741786718545" duration="16252000" />
       <workItem from="1742122014682" duration="12610000" />
-      <workItem from="1742985571784" duration="3522000" />
-    </task>
-    <task id="LOCAL-00096" summary="Solved_2117_홈_방범_서비스">
-      <created>1739450725102</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1739450725102</updated>
+      <workItem from="1742985571784" duration="4364000" />
+      <workItem from="1743081170972" duration="319000" />
     </task>
     <task id="LOCAL-00097" summary="Solved_4014_활주로_건설">
       <created>1739541959271</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742985689902</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="P5557_1학년">
+      <created>1742990501179</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1742990501179</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P11723_집합" />
     <MESSAGE value="Solved_3421_수제_버거_장인_임채진" />
     <MESSAGE value="P10986_나머지_합" />
     <MESSAGE value="P1038_감소하는_수" />
@@ -590,7 +590,8 @@
     <MESSAGE value="P1759_암호만들기" />
     <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
     <MESSAGE value="P2473_세_용액" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2473_세_용액" />
+    <MESSAGE value="P5557_1학년" />
+    <option name="LAST_COMMIT_MESSAGE" value="P5557_1학년" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
