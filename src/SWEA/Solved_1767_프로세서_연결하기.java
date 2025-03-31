@@ -2,6 +2,17 @@ package SWEA;
 import java.util.*;
 import java.io.*;
 
+/**
+ * Solved_1767_프로세서_연결하기
+ * 난이도 4/10
+ * 백트래킹
+ * 567ms
+ *
+ * 백트래킹을 이용해 최대한 많은 core에 전선을 연결했을 경우 전선 길이의 합을 구한다.
+ * 백트래킹으로 만약 갈 수 있다면 전선을 2로 표시하여 기록하고
+ * 다음 프로세서를 연결하는 방식으로 전선 길이의 합을 계산한다.
+ *
+ */
 public class Solved_1767_프로세서_연결하기 {
 	static int[] dx = new int[] {-1, 0, 1, 0};
 	static int[] dy = new int[] {0, 1, 0, -1};
