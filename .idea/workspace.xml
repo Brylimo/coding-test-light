@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="Solved_1767_프로세서_연결하기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11779_최소비용_구하기2.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P11779_최소비용_구하기2">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1937_욕심쟁이_판다.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2467_용액.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P42890_후보키.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P92345_양과늑대.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +54,14 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P11779_최소비용_구하기2">
+  <component name="RunManager" selected="Application.P2467_용액">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="coding-test-light" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P11779_최소비용_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P11779_최소비용_구하기2" />
       <module name="coding-test-light" />
@@ -65,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2473_세_용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2473_세_용액" />
+    <configuration name="P1937_욕심쟁이_판다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1937_욕심쟁이_판다" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5557_1학년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P5557_1학년" />
+    <configuration name="P2467_용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2467_용액" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -91,25 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7795_먹을_것인가_먹힐_것인가" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P7795_먹을_것인가_먹힐_것인가" />
+    <configuration name="P92345_양과늑대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.P92345_양과늑대" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solved_2383_점심_식사_시간" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA.Solved_2383_점심_식사_시간" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA.*" />
+          <option name="PATTERN" value="Programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2467_용액" />
+        <item itemvalue="Application.P92345_양과늑대" />
+        <item itemvalue="Application.P1937_욕심쟁이_판다" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.P11779_최소비용_구하기2" />
-        <item itemvalue="Application.Solved_2383_점심_식사_시간" />
-        <item itemvalue="Application.P5557_1학년" />
-        <item itemvalue="Application.P2473_세_용액" />
-        <item itemvalue="Application.P7795_먹을_것인가_먹힐_것인가" />
       </list>
     </recent_temporary>
   </component>
@@ -205,14 +202,10 @@
       <workItem from="1742985571784" duration="4364000" />
       <workItem from="1743081170972" duration="5847000" />
       <workItem from="1743420429778" duration="1485000" />
-      <workItem from="1743504505586" duration="1880000" />
-    </task>
-    <task id="LOCAL-00100" summary="Solved_2105_디저트_카페">
-      <created>1739584389816</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1739584389816</updated>
+      <workItem from="1743504505586" duration="2256000" />
+      <workItem from="1743680878320" duration="3181000" />
+      <workItem from="1743818463310" duration="7415000" />
+      <workItem from="1744197942497" duration="1113000" />
     </task>
     <task id="LOCAL-00101" summary="Solved_5644_무선_충전">
       <created>1739596358758</created>
@@ -550,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1743421867776</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="P11779_최소비용_구하기2">
+      <created>1743506628181</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1743506628181</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P3040_백설_공주와_일곱_난쟁이" />
     <MESSAGE value="P10799_쇠막대기" />
     <MESSAGE value="P11724_연결_요소의_개수" />
     <MESSAGE value="P2023_신기한_소수" />
@@ -593,7 +592,8 @@
     <MESSAGE value="Solved_3124_최소_스패닝_트리" />
     <MESSAGE value="Solved_2383_점심_식사_시간" />
     <MESSAGE value="Solved_1767_프로세서_연결하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved_1767_프로세서_연결하기" />
+    <MESSAGE value="P11779_최소비용_구하기2" />
+    <option name="LAST_COMMIT_MESSAGE" value="P11779_최소비용_구하기2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1025,13 +1025,24 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P11779_최소비용_구하기2.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="382" />
+          <line>63</line>
+          <option name="timeStamp" value="384" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Baekjoon/P11779_최소비용_구하기2.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="383" />
+          <condition expression="ans == 6" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/Programmers/P92345_양과늑대.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Programmers/P92345_양과늑대.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P2467_용액.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="392" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
