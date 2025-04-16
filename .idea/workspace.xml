@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P11779_최소비용_구하기2">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1937_욕심쟁이_판다.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2467_용액.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/P42890_후보키.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/P92345_양과늑대.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2467_용액">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P20947_습격받은_도시.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2467_용액">
+  <component name="RunManager" selected="Application.P20947_습격받은_도시">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="coding-test-light" />
@@ -62,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11779_최소비용_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11779_최소비용_구하기2" />
+    <configuration name="P1937_욕심쟁이_판다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1937_욕심쟁이_판다" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1937_욕심쟁이_판다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1937_욕심쟁이_판다" />
+    <configuration name="P20947_습격받은_도시" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P20947_습격받은_도시" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P20947_습격받은_도시" />
         <item itemvalue="Application.P2467_용액" />
         <item itemvalue="Application.P92345_양과늑대" />
         <item itemvalue="Application.P1937_욕심쟁이_판다" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.P11779_최소비용_구하기2" />
       </list>
     </recent_temporary>
   </component>
@@ -205,14 +202,8 @@
       <workItem from="1743504505586" duration="2256000" />
       <workItem from="1743680878320" duration="3181000" />
       <workItem from="1743818463310" duration="7415000" />
-      <workItem from="1744197942497" duration="1113000" />
-    </task>
-    <task id="LOCAL-00101" summary="Solved_5644_무선_충전">
-      <created>1739596358758</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1739596358758</updated>
+      <workItem from="1744197942497" duration="1176000" />
+      <workItem from="1744801406332" duration="3868000" />
     </task>
     <task id="LOCAL-00102" summary="Solved_1251_4일차_하나로">
       <created>1739604827610</created>
@@ -550,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1743506628181</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="P2467_용액">
+      <created>1744199458376</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1744199458376</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P10799_쇠막대기" />
     <MESSAGE value="P11724_연결_요소의_개수" />
     <MESSAGE value="P2023_신기한_소수" />
     <MESSAGE value="P2531_회전_초밥" />
@@ -593,7 +590,8 @@
     <MESSAGE value="Solved_2383_점심_식사_시간" />
     <MESSAGE value="Solved_1767_프로세서_연결하기" />
     <MESSAGE value="P11779_최소비용_구하기2" />
-    <option name="LAST_COMMIT_MESSAGE" value="P11779_최소비용_구하기2" />
+    <MESSAGE value="P2467_용액" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2467_용액" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
