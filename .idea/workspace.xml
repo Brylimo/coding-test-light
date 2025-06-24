@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1414_불우이웃돕기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Main.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P23843_콘센트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P5014_스타트링크.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,48 +52,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Main" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P5014_스타트링크">
     <configuration name="P1414_불우이웃돕기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P1414_불우이웃돕기" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P16118_달빛여우" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P16118_달빛여우" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P19237_어른상어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P19237_어른상어" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +79,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2342_Dance_Dance_Revolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2342_Dance_Dance_Revolution" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P23843_콘센트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P23843_콘센트" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P5014_스타트링크" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P5014_스타트링크" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.P5014_스타트링크" />
+        <item itemvalue="Application.P23843_콘센트" />
+        <item itemvalue="Application.P2342_Dance_Dance_Revolution" />
         <item itemvalue="Application.P1414_불우이웃돕기" />
         <item itemvalue="Application.P2169_로봇_조종하기" />
-        <item itemvalue="Application.P16118_달빛여우" />
-        <item itemvalue="Application.P19237_어른상어" />
       </list>
     </recent_temporary>
   </component>
@@ -213,14 +214,9 @@
       <workItem from="1744971681223" duration="5043000" />
       <workItem from="1745127436227" duration="3830000" />
       <workItem from="1745491617805" duration="4318000" />
-      <workItem from="1746786007799" duration="3414000" />
-    </task>
-    <task id="LOCAL-00107" summary="P1368_물대기">
-      <created>1739677274392</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1739677274392</updated>
+      <workItem from="1746786007799" duration="5093000" />
+      <workItem from="1748775780391" duration="2768000" />
+      <workItem from="1750730096968" duration="1226000" />
     </task>
     <task id="LOCAL-00108" summary="P1333_부재중_전화">
       <created>1739697990452</created>
@@ -558,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1745496397461</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="P2342_Dance_Dance_Revolution">
+      <created>1746790404062</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1746790404063</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P14890_경사로" />
     <MESSAGE value="P1914_하노이_탑" />
     <MESSAGE value="P3109_빵집" />
     <MESSAGE value="P1269_대칭_차집합" />
@@ -601,7 +603,8 @@
     <MESSAGE value="Solved_3263_오름차순_줄_세우기" />
     <MESSAGE value="P2169_로봇_조종하기" />
     <MESSAGE value="P1414_불우이웃돕기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1414_불우이웃돕기" />
+    <MESSAGE value="P2342_Dance_Dance_Revolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2342_Dance_Dance_Revolution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1051,6 +1054,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2467_용액.java</url>
           <line>23</line>
           <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P5014_스타트링크.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="393" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
