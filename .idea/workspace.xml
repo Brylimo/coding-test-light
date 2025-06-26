@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5014_스타트링크">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P20006_랭킹전_대기열.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P20006_랭킹전_대기열">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P15989_123더하기4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P20006_랭킹전_대기열">
-    <configuration name="P1414_불우이웃돕기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1414_불우이웃돕기" />
+  <component name="RunManager" selected="Application.P15989_123더하기4">
+    <configuration name="P15989_123더하기4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P15989_123더하기4" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P15989_123더하기4" />
         <item itemvalue="Application.P20006_랭킹전_대기열" />
         <item itemvalue="Application.P5014_스타트링크" />
         <item itemvalue="Application.P23843_콘센트" />
         <item itemvalue="Application.P2342_Dance_Dance_Revolution" />
-        <item itemvalue="Application.P1414_불우이웃돕기" />
       </list>
     </recent_temporary>
   </component>
@@ -215,14 +215,7 @@
       <workItem from="1745491617805" duration="4318000" />
       <workItem from="1746786007799" duration="5093000" />
       <workItem from="1748775780391" duration="2768000" />
-      <workItem from="1750730096968" duration="4492000" />
-    </task>
-    <task id="LOCAL-00109" summary="Solved_16504_Gravity">
-      <created>1739707461103</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1739707461103</updated>
+      <workItem from="1750730096968" duration="9726000" />
     </task>
     <task id="LOCAL-00110" summary="P20299_3대_측정">
       <created>1739714630738</created>
@@ -560,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1750731640822</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="P20006_랭킹전_대기열">
+      <created>1750836530407</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1750836530407</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P3109_빵집" />
     <MESSAGE value="P1269_대칭_차집합" />
     <MESSAGE value="P10159_저울" />
     <MESSAGE value="P1799_비숍" />
@@ -603,7 +602,8 @@
     <MESSAGE value="P1414_불우이웃돕기" />
     <MESSAGE value="P2342_Dance_Dance_Revolution" />
     <MESSAGE value="P5014_스타트링크" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5014_스타트링크" />
+    <MESSAGE value="P20006_랭킹전_대기열" />
+    <option name="LAST_COMMIT_MESSAGE" value="P20006_랭킹전_대기열" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
