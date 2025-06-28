@@ -17,6 +17,8 @@ public class CodeTree_연결리스트1 {
         }
     }
 
+    // 새로운 노드를 먼저 연결하고 이어붙이는 방법을 사용했음
+    // 새로운 노드와 왼쪽을 연결시키고 새로운 노드와 오른쪽을 연결시키는 방법도 존재 => connect
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
         Scanner sc = new Scanner(System.in);
