@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P15989_123더하기4">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P18223_민준이와_마산_그리고_건우.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P3151_합이0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P18223_민준이와_마산_그리고_건우">
+  <component name="RunManager" selected="Application.P3151_합이0">
     <configuration name="P15989_123더하기4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P15989_123더하기4" />
       <module name="coding-test-light" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P23843_콘센트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P23843_콘센트" />
+    <configuration name="P3151_합이0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P3151_합이0" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P3151_합이0" />
         <item itemvalue="Application.P18223_민준이와_마산_그리고_건우" />
         <item itemvalue="Application.P15989_123더하기4" />
         <item itemvalue="Application.P20006_랭킹전_대기열" />
         <item itemvalue="Application.P5014_스타트링크" />
-        <item itemvalue="Application.P23843_콘센트" />
       </list>
     </recent_temporary>
   </component>
@@ -216,14 +216,8 @@
       <workItem from="1746786007799" duration="5093000" />
       <workItem from="1748775780391" duration="2768000" />
       <workItem from="1750730096968" duration="14070000" />
-      <workItem from="1750989779861" duration="1408000" />
-    </task>
-    <task id="LOCAL-00111" summary="P17952_과제는_끝나지_않아">
-      <created>1739788808210</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1739788808210</updated>
+      <workItem from="1750989779861" duration="2358000" />
+      <workItem from="1751076731126" duration="2040000" />
     </task>
     <task id="LOCAL-00112" summary="P17135_캐슬_디펜스">
       <created>1739797465196</created>
@@ -561,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1750912758353</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="P18223_민준이와_마산_그리고_건우">
+      <created>1750991534052</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1750991534052</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P10159_저울" />
     <MESSAGE value="P1799_비숍" />
     <MESSAGE value="P9465_스티커" />
     <MESSAGE value="Solved_5643_키_순서" />
@@ -604,7 +604,8 @@
     <MESSAGE value="P5014_스타트링크" />
     <MESSAGE value="P20006_랭킹전_대기열" />
     <MESSAGE value="P15989_123더하기4" />
-    <option name="LAST_COMMIT_MESSAGE" value="P15989_123더하기4" />
+    <MESSAGE value="P18223_민준이와_마산_그리고_건우" />
+    <option name="LAST_COMMIT_MESSAGE" value="P18223_민준이와_마산_그리고_건우" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1062,13 +1063,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P18223_민준이와_마산_그리고_건우.java</url>
-          <line>125</line>
+          <line>126</line>
           <option name="timeStamp" value="396" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P18223_민준이와_마산_그리고_건우.java</url>
-          <line>102</line>
+          <line>103</line>
           <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P18223_민준이와_마산_그리고_건우.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P3151_합이0.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P3151_합이0.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="401" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
