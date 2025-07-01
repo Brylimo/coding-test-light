@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="CodeTree_연결리스트1">
-      <change afterPath="$PROJECT_DIR$/src/CodeTree/CodeTree_연결리스트2.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P12919_A와B2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeTree/CodeTree_연결리스트1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeTree/CodeTree_연결리스트1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CodeTree_연결리스트2">
+  <component name="RunManager" selected="Application.P12919_A와B2">
     <configuration name="CodeTree_연결리스트1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree.CodeTree_연결리스트1" />
       <module name="coding-test-light" />
@@ -79,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P18223_민준이와_마산_그리고_건우" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P18223_민준이와_마산_그리고_건우" />
+    <configuration name="P12919_A와B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P12919_A와B2" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P12919_A와B2" />
         <item itemvalue="Application.CodeTree_연결리스트2" />
         <item itemvalue="Application.CodeTree_연결리스트1" />
         <item itemvalue="Application.P2589_보물섬" />
         <item itemvalue="Application.P3151_합이0" />
-        <item itemvalue="Application.P18223_민준이와_마산_그리고_건우" />
       </list>
     </recent_temporary>
   </component>
@@ -218,14 +217,8 @@
       <workItem from="1748775780391" duration="2768000" />
       <workItem from="1750730096968" duration="14070000" />
       <workItem from="1750989779861" duration="2358000" />
-      <workItem from="1751076731126" duration="9772000" />
-    </task>
-    <task id="LOCAL-00115" summary="P1238_파티">
-      <created>1739966483333</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1739966483334</updated>
+      <workItem from="1751076731126" duration="14218000" />
+      <workItem from="1751282190419" duration="3492000" />
     </task>
     <task id="LOCAL-00116" summary="P1021_회전하는_큐">
       <created>1739970260852</created>
@@ -563,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751091446025</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="CodeTree_연결리스트2">
+      <created>1751094193179</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1751094193179</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_1251_4일차_하나로" />
     <MESSAGE value="P1654_랜선_자르기" />
     <MESSAGE value="P2240_자두나무2" />
     <MESSAGE value="P1759_암호만들기" />
@@ -606,7 +605,8 @@
     <MESSAGE value="P3151_합이0" />
     <MESSAGE value="P2589_보물섬" />
     <MESSAGE value="CodeTree_연결리스트1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeTree_연결리스트1" />
+    <MESSAGE value="CodeTree_연결리스트2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeTree_연결리스트2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1091,6 +1091,11 @@
           <url>file://$PROJECT_DIR$/src/CodeTree/CodeTree_연결리스트1.java</url>
           <line>68</line>
           <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P12919_A와B2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="404" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
