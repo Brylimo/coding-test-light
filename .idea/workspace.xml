@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P12919_A와B2.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P12919_A와B2">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P5972_택배배송.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P12919_A와B2">
+  <component name="RunManager" selected="Application.P5972_택배배송">
     <configuration name="CodeTree_연결리스트1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeTree.CodeTree_연결리스트1" />
       <module name="coding-test-light" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P3151_합이0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P3151_합이0" />
+    <configuration name="P5972_택배배송" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P5972_택배배송" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5972_택배배송" />
         <item itemvalue="Application.P12919_A와B2" />
         <item itemvalue="Application.CodeTree_연결리스트2" />
         <item itemvalue="Application.CodeTree_연결리스트1" />
         <item itemvalue="Application.P2589_보물섬" />
-        <item itemvalue="Application.P3151_합이0" />
       </list>
     </recent_temporary>
   </component>
@@ -218,14 +218,8 @@
       <workItem from="1750730096968" duration="14070000" />
       <workItem from="1750989779861" duration="2358000" />
       <workItem from="1751076731126" duration="14218000" />
-      <workItem from="1751282190419" duration="3492000" />
-    </task>
-    <task id="LOCAL-00116" summary="P1021_회전하는_큐">
-      <created>1739970260852</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1739970260852</updated>
+      <workItem from="1751282190419" duration="4520000" />
+      <workItem from="1751438400714" duration="1754000" />
     </task>
     <task id="LOCAL-00117" summary="P16919_봄버맨2">
       <created>1740052696331</created>
@@ -563,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751094193179</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="P12919_A와B2">
+      <created>1751346979347</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1751346979348</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P1654_랜선_자르기" />
     <MESSAGE value="P2240_자두나무2" />
     <MESSAGE value="P1759_암호만들기" />
     <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
@@ -606,7 +606,8 @@
     <MESSAGE value="P2589_보물섬" />
     <MESSAGE value="CodeTree_연결리스트1" />
     <MESSAGE value="CodeTree_연결리스트2" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeTree_연결리스트2" />
+    <MESSAGE value="P12919_A와B2" />
+    <option name="LAST_COMMIT_MESSAGE" value="P12919_A와B2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
