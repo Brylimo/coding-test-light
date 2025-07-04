@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="어린동물찾기.sql">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1941_소문난칠공주.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1941_소문난칠공주">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14002_가장_긴_증가하는_부분_수열4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +51,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1941_소문난칠공주">
-    <configuration name="CodeTree_연결리스트2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeTree.CodeTree_연결리스트2" />
+  <component name="RunManager" selected="Application.P14002_가장_긴_증가하는_부분_수열4">
+    <configuration name="P12919_A와B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P12919_A와B2" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeTree.*" />
+          <option name="PATTERN" value="Baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P12919_A와B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P12919_A와B2" />
+    <configuration name="P14002_가장_긴_증가하는_부분_수열4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14002_가장_긴_증가하는_부분_수열4" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P14002_가장_긴_증가하는_부분_수열4" />
         <item itemvalue="Application.P1941_소문난칠공주" />
         <item itemvalue="Application.P24391_귀찮은해강이" />
         <item itemvalue="Application.P5972_택배배송" />
         <item itemvalue="Application.P12919_A와B2" />
-        <item itemvalue="Application.CodeTree_연결리스트2" />
       </list>
     </recent_temporary>
   </component>
@@ -221,14 +221,7 @@
       <workItem from="1751282190419" duration="4520000" />
       <workItem from="1751438400714" duration="6051000" />
       <workItem from="1751608994585" duration="8079000" />
-      <workItem from="1751624975369" duration="2321000" />
-    </task>
-    <task id="LOCAL-00121" summary="Solved_3421_수제_버거_장인_임채진">
-      <created>1740144315588</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1740144315588</updated>
+      <workItem from="1751624975369" duration="4912000" />
     </task>
     <task id="LOCAL-00122" summary="P10986_나머지_합">
       <created>1740238392272</created>
@@ -566,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751609448311</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="P1941_소문난칠공주">
+      <created>1751627415072</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1751627415072</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P5557_1학년" />
     <MESSAGE value="Solved_3124_최소_스패닝_트리" />
     <MESSAGE value="Solved_2383_점심_식사_시간" />
     <MESSAGE value="Solved_1767_프로세서_연결하기" />
@@ -609,7 +608,8 @@
     <MESSAGE value="P24391_귀찮은해강이" />
     <MESSAGE value="아픈동물찾기.sql" />
     <MESSAGE value="어린동물찾기.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="어린동물찾기.sql" />
+    <MESSAGE value="P1941_소문난칠공주" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1941_소문난칠공주" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1112,8 +1112,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Baekjoon/P1941_소문난칠공주.java</url>
-          <line>153</line>
-          <option name="timeStamp" value="410" />
+          <line>146</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P1941_소문난칠공주.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P14002_가장_긴_증가하는_부분_수열4.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="413" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
