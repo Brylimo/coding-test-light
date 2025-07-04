@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="DATETIME에서_DATE로_형변환.sql" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="특정_옵션이_포함된_자동차_리스트_구하기.sql">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,21 +221,7 @@
       <workItem from="1751438400714" duration="6051000" />
       <workItem from="1751608994585" duration="8079000" />
       <workItem from="1751624975369" duration="4912000" />
-      <workItem from="1751664605938" duration="1805000" />
-    </task>
-    <task id="LOCAL-00126" summary="P11724_연결_요소의_개수">
-      <created>1740401262682</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1740401262682</updated>
-    </task>
-    <task id="LOCAL-00127" summary="P2023_신기한_소수">
-      <created>1740403462050</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1740403462050</updated>
+      <workItem from="1751664605938" duration="2709000" />
     </task>
     <task id="LOCAL-00128" summary="P2531_회전_초밥">
       <created>1740407619101</created>
@@ -564,7 +552,21 @@
       <option name="project" value="LOCAL" />
       <updated>1751666800783</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="카테고리별_상품_개수_구하기.sql">
+      <created>1751667183731</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1751667183731</updated>
+    </task>
+    <task id="LOCAL-00176" summary="특정_옵션이_포함된_자동차_리스트_구하기.sql">
+      <created>1751667434567</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1751667434567</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,8 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2467_용액" />
-    <MESSAGE value="P20947_습격받은_도시" />
     <MESSAGE value="P16118_달빛여우" />
     <MESSAGE value="Solved_3263_오름차순_줄_세우기" />
     <MESSAGE value="P2169_로봇_조종하기" />
@@ -607,7 +607,9 @@
     <MESSAGE value="가장비싼상품구하기.sql" />
     <MESSAGE value="자동차평균대여기간구하기.sql" />
     <MESSAGE value="DATETIME에서_DATE로_형변환.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="DATETIME에서_DATE로_형변환.sql" />
+    <MESSAGE value="카테고리별_상품_개수_구하기.sql" />
+    <MESSAGE value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
