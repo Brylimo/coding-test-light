@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P5972_택배배송">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P24391_귀찮은해강이.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P24391_귀찮은해강이">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/SQL/아픈동물찾기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -219,14 +219,7 @@
       <workItem from="1750989779861" duration="2358000" />
       <workItem from="1751076731126" duration="14218000" />
       <workItem from="1751282190419" duration="4520000" />
-      <workItem from="1751438400714" duration="4166000" />
-    </task>
-    <task id="LOCAL-00118" summary="P11660_구간_합_구하기5">
-      <created>1740056016863</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1740056016863</updated>
+      <workItem from="1751438400714" duration="6051000" />
     </task>
     <task id="LOCAL-00119" summary="Solved_1225_암호생성기">
       <created>1740140966656</created>
@@ -564,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751442274678</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="P24391_귀찮은해강이">
+      <created>1751445307826</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1751445307826</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P1759_암호만들기" />
     <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
     <MESSAGE value="P2473_세_용액" />
     <MESSAGE value="P5557_1학년" />
@@ -607,7 +606,8 @@
     <MESSAGE value="CodeTree_연결리스트2" />
     <MESSAGE value="P12919_A와B2" />
     <MESSAGE value="P5972_택배배송" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5972_택배배송" />
+    <MESSAGE value="P24391_귀찮은해강이" />
+    <option name="LAST_COMMIT_MESSAGE" value="P24391_귀찮은해강이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
