@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="자동차평균대여기간구하기.sql" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="DATETIME에서_DATE로_형변환.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,14 +219,7 @@
       <workItem from="1751438400714" duration="6051000" />
       <workItem from="1751608994585" duration="8079000" />
       <workItem from="1751624975369" duration="4912000" />
-      <workItem from="1751664605938" duration="1414000" />
-    </task>
-    <task id="LOCAL-00125" summary="P10799_쇠막대기">
-      <created>1740395401709</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1740395401709</updated>
+      <workItem from="1751664605938" duration="1805000" />
     </task>
     <task id="LOCAL-00126" summary="P11724_연결_요소의_개수">
       <created>1740401262682</created>
@@ -564,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751666357597</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="DATETIME에서_DATE로_형변환.sql">
+      <created>1751666800783</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1751666800783</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P11779_최소비용_구하기2" />
     <MESSAGE value="P2467_용액" />
     <MESSAGE value="P20947_습격받은_도시" />
     <MESSAGE value="P16118_달빛여우" />
@@ -607,7 +606,8 @@
     <MESSAGE value="서울에위치한식당목록출력하기.sql" />
     <MESSAGE value="가장비싼상품구하기.sql" />
     <MESSAGE value="자동차평균대여기간구하기.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="자동차평균대여기간구하기.sql" />
+    <MESSAGE value="DATETIME에서_DATE로_형변환.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="DATETIME에서_DATE로_형변환.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
