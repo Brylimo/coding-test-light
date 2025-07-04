@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P24391_귀찮은해강이">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/SQL/아픈동물찾기.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="아픈동물찾기.sql">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/SQL/어린동물찾기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,13 +219,7 @@
       <workItem from="1751076731126" duration="14218000" />
       <workItem from="1751282190419" duration="4520000" />
       <workItem from="1751438400714" duration="6051000" />
-    </task>
-    <task id="LOCAL-00119" summary="Solved_1225_암호생성기">
-      <created>1740140966656</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1740140966656</updated>
+      <workItem from="1751608994585" duration="426000" />
     </task>
     <task id="LOCAL-00120" summary="P11723_집합">
       <created>1740142798233</created>
@@ -564,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751445307826</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="아픈동물찾기.sql">
+      <created>1751609237732</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1751609237732</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P7795_먹을_것인가_먹힐_것인가" />
     <MESSAGE value="P2473_세_용액" />
     <MESSAGE value="P5557_1학년" />
     <MESSAGE value="Solved_3124_최소_스패닝_트리" />
@@ -607,7 +606,8 @@
     <MESSAGE value="P12919_A와B2" />
     <MESSAGE value="P5972_택배배송" />
     <MESSAGE value="P24391_귀찮은해강이" />
-    <option name="LAST_COMMIT_MESSAGE" value="P24391_귀찮은해강이" />
+    <MESSAGE value="아픈동물찾기.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="아픈동물찾기.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
