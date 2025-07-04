@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1941_소문난칠공주">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14002_가장_긴_증가하는_부분_수열4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="서울에위치한식당목록출력하기.sql">
+      <change beforePath="$PROJECT_DIR$/src/Programmers/SQL/서울에위치한식당목록출력하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/SQL/서울에위치한식당목록출력하기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,13 +221,7 @@
       <workItem from="1751438400714" duration="6051000" />
       <workItem from="1751608994585" duration="8079000" />
       <workItem from="1751624975369" duration="4912000" />
-    </task>
-    <task id="LOCAL-00122" summary="P10986_나머지_합">
-      <created>1740238392272</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1740238392273</updated>
+      <workItem from="1751664605938" duration="312000" />
     </task>
     <task id="LOCAL-00123" summary="P1038_감소하는_수">
       <created>1740311246325</created>
@@ -566,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751627415072</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="서울에위치한식당목록출력하기.sql">
+      <created>1751664713983</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1751664713983</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_3124_최소_스패닝_트리" />
     <MESSAGE value="Solved_2383_점심_식사_시간" />
     <MESSAGE value="Solved_1767_프로세서_연결하기" />
     <MESSAGE value="P11779_최소비용_구하기2" />
@@ -609,7 +608,8 @@
     <MESSAGE value="아픈동물찾기.sql" />
     <MESSAGE value="어린동물찾기.sql" />
     <MESSAGE value="P1941_소문난칠공주" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1941_소문난칠공주" />
+    <MESSAGE value="서울에위치한식당목록출력하기.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="서울에위치한식당목록출력하기.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
