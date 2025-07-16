@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="특정_옵션이_포함된_자동차_리스트_구하기.sql">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2665_미로만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2665_미로만들기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P17352_여러분의_다리가_되어_드리겠습니다.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Brylimo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Brylimo/coding-test-light.git&quot;,
+    &quot;accountId&quot;: &quot;ba8bcca7-f832-4567-afa7-717e64fbe992&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -48,7 +59,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true",
-    "애플리케이션.P2665_미로만들기.executor": "Debug"
+    "애플리케이션.P17352_여러분의_다리가_되어_드리겠습니다.executor": "Debug",
+    "애플리케이션.P2665_미로만들기.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.P2665_미로만들기">
+  <component name="RunManager" selected="애플리케이션.P17352_여러분의_다리가_되어_드리겠습니다">
     <configuration name="P12919_A와B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P12919_A와B2" />
       <module name="coding-test-light" />
@@ -73,6 +85,19 @@
     </configuration>
     <configuration name="P14002_가장_긴_증가하는_부분_수열4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P14002_가장_긴_증가하는_부분_수열4" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P17352_여러분의_다리가_되어_드리겠습니다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P17352_여러분의_다리가_되어_드리겠습니다" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -110,21 +135,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P5972_택배배송" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P5972_택배배송" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.P17352_여러분의_다리가_되어_드리겠습니다" />
         <item itemvalue="애플리케이션.P2665_미로만들기" />
       </list>
     </recent_temporary>
@@ -234,7 +247,8 @@
       <workItem from="1751624975369" duration="4912000" />
       <workItem from="1751664605938" duration="2709000" />
       <workItem from="1752020459461" duration="1711000" />
-      <workItem from="1752537534877" duration="1639000" />
+      <workItem from="1752537534877" duration="5262000" />
+      <workItem from="1752624448870" duration="1189000" />
     </task>
     <task id="LOCAL-00128" summary="P2531_회전_초밥">
       <created>1740407619101</created>
@@ -579,7 +593,7 @@
       <option name="project" value="LOCAL" />
       <updated>1751667434567</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P16118_달빛여우" />
     <MESSAGE value="Solved_3263_오름차순_줄_세우기" />
     <MESSAGE value="P2169_로봇_조종하기" />
     <MESSAGE value="P1414_불우이웃돕기" />
@@ -622,7 +635,8 @@
     <MESSAGE value="DATETIME에서_DATE로_형변환.sql" />
     <MESSAGE value="카테고리별_상품_개수_구하기.sql" />
     <MESSAGE value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
+    <MESSAGE value="P2665_미로만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2665_미로만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1139,8 +1153,8 @@
           <option name="timeStamp" value="413" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Baekjoon/P2665_미로만들기.java</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P17352_여러분의_다리가_되어_드리겠습니다.java</url>
+          <line>48</line>
           <option name="timeStamp" value="414" />
         </line-breakpoint>
       </breakpoints>
