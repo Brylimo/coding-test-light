@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2042_구간_합_구하기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P15681_트리와_쿼리.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P15681_트리와_쿼리">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14725_개미굴.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,9 +70,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P15681_트리와_쿼리">
-    <configuration name="P14002_가장_긴_증가하는_부분_수열4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14002_가장_긴_증가하는_부분_수열4" />
+  <component name="RunManager" selected="Application.P14725_개미굴">
+    <configuration name="P14725_개미굴" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14725_개미굴" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -138,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P14725_개미굴" />
         <item itemvalue="Application.P15681_트리와_쿼리" />
         <item itemvalue="Application.P2042_구간_합_구하기" />
       </list>
@@ -250,14 +251,7 @@
       <workItem from="1752020459461" duration="1711000" />
       <workItem from="1752537534877" duration="5262000" />
       <workItem from="1752624448870" duration="1189000" />
-      <workItem from="1755946534956" duration="7275000" />
-    </task>
-    <task id="LOCAL-00129" summary="P15565_귀여운_라이언">
-      <created>1740480773536</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1740480773537</updated>
+      <workItem from="1755946534956" duration="10294000" />
     </task>
     <task id="LOCAL-00130" summary="P2504_괄호의_값">
       <created>1740490221943</created>
@@ -595,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1755952623310</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="P15681_트리와_쿼리">
+      <created>1756022748477</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1756022748477</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +614,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2169_로봇_조종하기" />
     <MESSAGE value="P1414_불우이웃돕기" />
     <MESSAGE value="P2342_Dance_Dance_Revolution" />
     <MESSAGE value="P5014_스타트링크" />
@@ -638,7 +638,8 @@
     <MESSAGE value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
     <MESSAGE value="P2665_미로만들기" />
     <MESSAGE value="P2042_구간_합_구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2042_구간_합_구하기" />
+    <MESSAGE value="P15681_트리와_쿼리" />
+    <option name="LAST_COMMIT_MESSAGE" value="P15681_트리와_쿼리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1163,6 +1164,16 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2042_구간_합_구하기.java</url>
           <line>80</line>
           <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P15681_트리와_쿼리.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P14725_개미굴.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="426" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
