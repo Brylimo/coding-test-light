@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2665_미로만들기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2042_구간_합_구하기.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2042_구간_합_구하기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P15681_트리와_쿼리.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,9 +70,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2042_구간_합_구하기">
-    <configuration name="P12919_A와B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P12919_A와B2" />
+  <component name="RunManager" selected="Application.P15681_트리와_쿼리">
+    <configuration name="P14002_가장_긴_증가하는_부분_수열4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14002_가장_긴_증가하는_부분_수열4" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P14002_가장_긴_증가하는_부분_수열4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14002_가장_긴_증가하는_부분_수열4" />
+    <configuration name="P15681_트리와_쿼리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P15681_트리와_쿼리" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -138,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P15681_트리와_쿼리" />
         <item itemvalue="Application.P2042_구간_합_구하기" />
       </list>
     </recent_temporary>
@@ -249,14 +250,7 @@
       <workItem from="1752020459461" duration="1711000" />
       <workItem from="1752537534877" duration="5262000" />
       <workItem from="1752624448870" duration="1189000" />
-      <workItem from="1755946534956" duration="5778000" />
-    </task>
-    <task id="LOCAL-00128" summary="P2531_회전_초밥">
-      <created>1740407619101</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1740407619101</updated>
+      <workItem from="1755946534956" duration="7275000" />
     </task>
     <task id="LOCAL-00129" summary="P15565_귀여운_라이언">
       <created>1740480773536</created>
@@ -594,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751667434567</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="P2042_구간_합_구하기">
+      <created>1755952623309</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1755952623310</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solved_3263_오름차순_줄_세우기" />
     <MESSAGE value="P2169_로봇_조종하기" />
     <MESSAGE value="P1414_불우이웃돕기" />
     <MESSAGE value="P2342_Dance_Dance_Revolution" />
@@ -637,7 +637,8 @@
     <MESSAGE value="카테고리별_상품_개수_구하기.sql" />
     <MESSAGE value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
     <MESSAGE value="P2665_미로만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2665_미로만들기" />
+    <MESSAGE value="P2042_구간_합_구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2042_구간_합_구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
