@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2357_최솟값과_최대값.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P10868_최솟값.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.P10868_최솟값.executor": "Debug",
     "애플리케이션.P17352_여러분의_다리가_되어_드리겠습니다.executor": "Debug",
     "애플리케이션.P2357_최솟값과_최대값.executor": "Run",
     "애플리케이션.P2665_미로만들기.executor": "Run"
@@ -71,9 +72,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.P2357_최솟값과_최대값">
-    <configuration name="P11505_구간_곱_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11505_구간_곱_구하기" />
+  <component name="RunManager" selected="애플리케이션.P10868_최솟값">
+    <configuration name="P10868_최솟값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P10868_최솟값" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -139,6 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.P10868_최솟값" />
         <item itemvalue="애플리케이션.P2357_최솟값과_최대값" />
       </list>
     </recent_temporary>
@@ -1184,6 +1186,24 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P11505_구간_곱_구하기.java</url>
           <line>40</line>
           <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P10868_최솟값.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P10868_최솟값.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P10868_최솟값.java</url>
+          <line>9</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="434" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
