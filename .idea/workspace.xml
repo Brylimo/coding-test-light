@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P14725_개미굴">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11505_구간_곱_구하기.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2357_최솟값과_최대값.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon/P2042_구간_합_구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon/P2042_구간_합_구하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,6 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2o9pnup9CuqcH2CpagWcFXwBlHb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,8 +58,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.P17352_여러분의_다리가_되어_드리겠습니다.executor": "Debug",
+    "애플리케이션.P2357_최솟값과_최대값.executor": "Run",
     "애플리케이션.P2665_미로만들기.executor": "Run"
   }
 }]]></component>
@@ -71,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P11505_구간_곱_구하기">
+  <component name="RunManager" selected="애플리케이션.P2357_최솟값과_최대값">
     <configuration name="P11505_구간_곱_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P11505_구간_곱_구하기" />
       <module name="coding-test-light" />
@@ -111,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2042_구간_합_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2042_구간_합_구하기" />
+    <configuration name="P2357_최솟값과_최대값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2357_최솟값과_최대값" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -139,10 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P11505_구간_곱_구하기" />
-        <item itemvalue="Application.P14725_개미굴" />
-        <item itemvalue="Application.P15681_트리와_쿼리" />
-        <item itemvalue="Application.P2042_구간_합_구하기" />
+        <item itemvalue="애플리케이션.P2357_최솟값과_최대값" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +251,7 @@
       <workItem from="1752537534877" duration="5262000" />
       <workItem from="1752624448870" duration="1189000" />
       <workItem from="1755946534956" duration="17179000" />
+      <workItem from="1756099925254" duration="881000" />
     </task>
     <task id="LOCAL-00131" summary="P14890_경사로">
       <created>1740490957417</created>
