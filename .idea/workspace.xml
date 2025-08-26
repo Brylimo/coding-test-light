@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P14267_회사_문화1">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1275_커피숍2.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1275_커피숍2">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P6549_히스토그램에서_가장_큰_직사각형.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,8 @@
     "애플리케이션.P14267_회사_문화1.executor": "Run",
     "애플리케이션.P17352_여러분의_다리가_되어_드리겠습니다.executor": "Debug",
     "애플리케이션.P2357_최솟값과_최대값.executor": "Run",
-    "애플리케이션.P2665_미로만들기.executor": "Run"
+    "애플리케이션.P2665_미로만들기.executor": "Run",
+    "애플리케이션.P6549_히스토그램에서_가장_큰_직사각형.executor": "Debug"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,7 +75,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.P1275_커피숍2">
+  <component name="RunManager" selected="애플리케이션.P6549_히스토그램에서_가장_큰_직사각형">
     <configuration name="P10868_최솟값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10868_최솟값" />
       <module name="coding-test-light" />
@@ -127,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P24391_귀찮은해강이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P24391_귀찮은해강이" />
+    <configuration name="P6549_히스토그램에서_가장_큰_직사각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P6549_히스토그램에서_가장_큰_직사각형" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -142,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.P6549_히스토그램에서_가장_큰_직사각형" />
         <item itemvalue="애플리케이션.P1275_커피숍2" />
         <item itemvalue="애플리케이션.P14267_회사_문화1" />
         <item itemvalue="애플리케이션.P10868_최솟값" />
@@ -258,7 +260,7 @@
       <workItem from="1752624448870" duration="1189000" />
       <workItem from="1755946534956" duration="17179000" />
       <workItem from="1756099925254" duration="881000" />
-      <workItem from="1756187221462" duration="1416000" />
+      <workItem from="1756187221462" duration="7202000" />
     </task>
     <task id="LOCAL-00131" summary="P14890_경사로">
       <created>1740490957417</created>
@@ -603,7 +605,7 @@
       <option name="project" value="LOCAL" />
       <updated>1756029290569</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P20006_랭킹전_대기열" />
     <MESSAGE value="P15989_123더하기4" />
     <MESSAGE value="P18223_민준이와_마산_그리고_건우" />
     <MESSAGE value="P3151_합이0" />
@@ -646,7 +647,8 @@
     <MESSAGE value="P14725_개미굴" />
     <MESSAGE value="P10868_최솟값" />
     <MESSAGE value="P14267_회사_문화1" />
-    <option name="LAST_COMMIT_MESSAGE" value="P14267_회사_문화1" />
+    <MESSAGE value="P1275_커피숍2" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1275_커피숍2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1209,6 +1211,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P1275_커피숍2.java</url>
           <line>9</line>
           <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P6549_히스토그램에서_가장_큰_직사각형.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="438" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
