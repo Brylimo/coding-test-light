@@ -3,13 +3,13 @@ import java.util.*;
 import java.io.*;
 
 public class P6549_히스토그램에서_가장_큰_직사각형 {
-    static int base, size;
+    static int base, size, n, INT_MAX = Integer.MAX_VALUE;
     static long res;
     static long[] arr;
     static int[] tree;
 
     static int get(int idx, int s, int e, int ts, int te) {
-        if (te < s || ts > e) return 0;
+        if (e < ts || te < s) return base;
         if (ts <= s && e <= te) return tree[idx];
 
         int mid = (s + e) / 2;
@@ -46,7 +46,7 @@ public class P6549_히스토그램에서_가장_큰_직사각형 {
         while (true) {
             st = new StringTokenizer(br.readLine());
 
-            int n = Integer.parseInt(st.nextToken());
+            n = Integer.parseInt(st.nextToken());
 
             if (n == 0) break;
 
@@ -54,8 +54,9 @@ public class P6549_히스토그램에서_가장_큰_직사각형 {
             while (base < n) base <<= 1;
             size = base << 1;
 
-            arr = new long[base];
+            arr = new long[base + 1];
             tree = new int[size];
+            arr[base] = 1_000_000_001;
 
             for (int i = 0; i < n; i++) {
                 arr[i] = Long.parseLong(st.nextToken());
