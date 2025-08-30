@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1517_버블_소트">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1395_스위치.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1395_스위치">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2268_수들의_합7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,20 +76,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1395_스위치">
-    <configuration name="P10868_최솟값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P10868_최솟값" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P2268_수들의_합7">
     <configuration name="P10999_구간_합_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10999_구간_합_구하기2" />
       <module name="coding-test-light" />
@@ -142,8 +129,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2268_수들의_합7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2268_수들의_합7" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2268_수들의_합7" />
         <item itemvalue="Application.P1395_스위치" />
         <item itemvalue="Application.P1517_버블_소트" />
         <item itemvalue="Application.P10999_구간_합_구하기2" />
@@ -260,13 +261,6 @@
       <workItem from="1755946534956" duration="17179000" />
       <workItem from="1756099925254" duration="881000" />
       <workItem from="1756187221462" duration="7202000" />
-    </task>
-    <task id="LOCAL-00134" summary="P1269_대칭_차집합">
-      <created>1740837285450</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1740837285451</updated>
     </task>
     <task id="LOCAL-00135" summary="P10159_저울">
       <created>1740903745452</created>
@@ -604,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1756389110890</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="P1395_스위치">
+      <created>1756392779891</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1756392779891</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P2589_보물섬" />
     <MESSAGE value="CodeTree_연결리스트1" />
     <MESSAGE value="CodeTree_연결리스트2" />
     <MESSAGE value="P12919_A와B2" />
@@ -647,7 +647,8 @@
     <MESSAGE value="P27652_AB" />
     <MESSAGE value="P10999_구간_합_구하기2" />
     <MESSAGE value="P1517_버블_소트" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1517_버블_소트" />
+    <MESSAGE value="P1395_스위치" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1395_스위치" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
