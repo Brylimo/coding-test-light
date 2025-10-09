@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P64065_튜플">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/P67256_키패드_누르기.java" afterDir="false" />
-    </list>
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P72410_신규_아이디_추천" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,21 +260,7 @@
       <workItem from="1756187221462" duration="7202000" />
       <workItem from="1756994549437" duration="4895000" />
       <workItem from="1757224496099" duration="74000" />
-      <workItem from="1760007764558" duration="1417000" />
-    </task>
-    <task id="LOCAL-00138" summary="Solved_5643_키_순서">
-      <created>1741607706773</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1741607706774</updated>
-    </task>
-    <task id="LOCAL-00139" summary="Solved_1251_4일차_하나로">
-      <created>1741613471042</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1741613471042</updated>
+      <workItem from="1760007764558" duration="2106000" />
     </task>
     <task id="LOCAL-00140" summary="P1654_랜선_자르기">
       <created>1741698452838</created>
@@ -607,7 +591,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760010548503</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="P67256_키패드_누르기">
+      <created>1760014373783</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1760014373783</updated>
+    </task>
+    <task id="LOCAL-00192" summary="P72410_신규_아이디_추천">
+      <created>1760019198160</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1760019198160</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,8 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P5972_택배배송" />
-    <MESSAGE value="P24391_귀찮은해강이" />
     <MESSAGE value="아픈동물찾기.sql" />
     <MESSAGE value="어린동물찾기.sql" />
     <MESSAGE value="P1941_소문난칠공주" />
@@ -650,7 +646,9 @@
     <MESSAGE value="P2268_수들의_합7" />
     <MESSAGE value="P81301_숫자_문자열과_영단어" />
     <MESSAGE value="P64065_튜플" />
-    <option name="LAST_COMMIT_MESSAGE" value="P64065_튜플" />
+    <MESSAGE value="P67256_키패드_누르기" />
+    <MESSAGE value="P72410_신규_아이디_추천" />
+    <option name="LAST_COMMIT_MESSAGE" value="P72410_신규_아이디_추천" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
