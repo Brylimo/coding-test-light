@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1395_스위치">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2268_수들의_합7.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2268_수들의_합7">
+      <change afterPath="$PROJECT_DIR$/src/SWEA/PRO/OTT/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEA/PRO/OTT/UserSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,13 +262,8 @@
       <workItem from="1755946534956" duration="17179000" />
       <workItem from="1756099925254" duration="881000" />
       <workItem from="1756187221462" duration="7202000" />
-    </task>
-    <task id="LOCAL-00135" summary="P10159_저울">
-      <created>1740903745452</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1740903745452</updated>
+      <workItem from="1756994549437" duration="4895000" />
+      <workItem from="1757224496099" duration="74000" />
     </task>
     <task id="LOCAL-00136" summary="P1799_비숍">
       <created>1741001680306</created>
@@ -605,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1756392779891</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="P2268_수들의_합7">
+      <created>1756523947927</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1756523947927</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +626,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeTree_연결리스트1" />
     <MESSAGE value="CodeTree_연결리스트2" />
     <MESSAGE value="P12919_A와B2" />
     <MESSAGE value="P5972_택배배송" />
@@ -648,7 +650,8 @@
     <MESSAGE value="P10999_구간_합_구하기2" />
     <MESSAGE value="P1517_버블_소트" />
     <MESSAGE value="P1395_스위치" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1395_스위치" />
+    <MESSAGE value="P2268_수들의_합7" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2268_수들의_합7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
