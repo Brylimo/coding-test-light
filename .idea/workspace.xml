@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P81301_숫자_문자열과_영단어">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/P64065_튜플.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P64065_튜플">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/P67256_키패드_누르기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,14 +262,7 @@
       <workItem from="1756187221462" duration="7202000" />
       <workItem from="1756994549437" duration="4895000" />
       <workItem from="1757224496099" duration="74000" />
-      <workItem from="1760007764558" duration="724000" />
-    </task>
-    <task id="LOCAL-00137" summary="P9465_스티커">
-      <created>1741398001942</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1741398001942</updated>
+      <workItem from="1760007764558" duration="1417000" />
     </task>
     <task id="LOCAL-00138" summary="Solved_5643_키_순서">
       <created>1741607706773</created>
@@ -607,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760007861589</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="P64065_튜플">
+      <created>1760010548503</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1760010548503</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P12919_A와B2" />
     <MESSAGE value="P5972_택배배송" />
     <MESSAGE value="P24391_귀찮은해강이" />
     <MESSAGE value="아픈동물찾기.sql" />
@@ -650,7 +649,8 @@
     <MESSAGE value="P1395_스위치" />
     <MESSAGE value="P2268_수들의_합7" />
     <MESSAGE value="P81301_숫자_문자열과_영단어" />
-    <option name="LAST_COMMIT_MESSAGE" value="P81301_숫자_문자열과_영단어" />
+    <MESSAGE value="P64065_튜플" />
+    <option name="LAST_COMMIT_MESSAGE" value="P64065_튜플" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
