@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P150370_개인정보_수집_유효기간">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2343_기타_레슨.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2343_기타_레슨">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2118_두_개의_탑.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2343_기타_레슨">
+  <component name="RunManager" selected="Application.P2118_두_개의_탑">
     <configuration name="P10999_구간_합_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10999_구간_합_구하기2" />
       <module name="coding-test-light" />
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1517_버블_소트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1517_버블_소트" />
+    <configuration name="P2118_두_개의_탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2118_두_개의_탑" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -144,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2118_두_개의_탑" />
         <item itemvalue="Application.P2343_기타_레슨" />
       </list>
     </recent_temporary>
@@ -261,13 +262,6 @@
       <workItem from="1756994549437" duration="4895000" />
       <workItem from="1757224496099" duration="74000" />
       <workItem from="1760007764558" duration="2764000" />
-    </task>
-    <task id="LOCAL-00141" summary="P2240_자두나무2">
-      <created>1741777737845</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1741777737845</updated>
     </task>
     <task id="LOCAL-00142" summary="P1759_암호만들기">
       <created>1741789575983</created>
@@ -605,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760023322063</updated>
     </task>
-    <option name="localTasksCounter" value="194" />
+    <task id="LOCAL-00194" summary="P2343_기타_레슨">
+      <created>1760104971239</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1760104971239</updated>
+    </task>
+    <option name="localTasksCounter" value="195" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="어린동물찾기.sql" />
     <MESSAGE value="P1941_소문난칠공주" />
     <MESSAGE value="서울에위치한식당목록출력하기.sql" />
     <MESSAGE value="가장비싼상품구하기.sql" />
@@ -648,7 +648,8 @@
     <MESSAGE value="P67256_키패드_누르기" />
     <MESSAGE value="P72410_신규_아이디_추천" />
     <MESSAGE value="P150370_개인정보_수집_유효기간" />
-    <option name="LAST_COMMIT_MESSAGE" value="P150370_개인정보_수집_유효기간" />
+    <MESSAGE value="P2343_기타_레슨" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2343_기타_레슨" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1231,6 +1232,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P2343_기타_레슨.java</url>
           <line>29</line>
           <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P2118_두_개의_탑.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="451" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
