@@ -73,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2268_수들의_합7">
+  <component name="RunManager" selected="애플리케이션.P1395_스위치">
     <configuration name="P10999_구간_합_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10999_구간_합_구하기2" />
       <module name="coding-test-light" />
@@ -139,14 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.P2268_수들의_합7" />
-        <item itemvalue="Application.P1395_스위치" />
-        <item itemvalue="Application.P1517_버블_소트" />
-        <item itemvalue="Application.P10999_구간_합_구하기2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
