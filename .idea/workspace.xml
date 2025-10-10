@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2343_기타_레슨">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P2118_두_개의_탑.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P2118_두_개의_탑">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P1939_중량제한.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2118_두_개의_탑">
+  <component name="RunManager" selected="Application.P1939_중량제한">
     <configuration name="P10999_구간_합_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P10999_구간_합_구하기2" />
       <module name="coding-test-light" />
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2118_두_개의_탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2118_두_개의_탑" />
+    <configuration name="P1939_중량제한" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P1939_중량제한" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2268_수들의_합7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2268_수들의_합7" />
+    <configuration name="P2118_두_개의_탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2118_두_개의_탑" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -144,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1939_중량제한" />
         <item itemvalue="Application.P2118_두_개의_탑" />
         <item itemvalue="Application.P2343_기타_레슨" />
       </list>
@@ -262,13 +263,6 @@
       <workItem from="1756994549437" duration="4895000" />
       <workItem from="1757224496099" duration="74000" />
       <workItem from="1760007764558" duration="2764000" />
-    </task>
-    <task id="LOCAL-00142" summary="P1759_암호만들기">
-      <created>1741789575983</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1741789575983</updated>
     </task>
     <task id="LOCAL-00143" summary="P7795_먹을_것인가_먹힐_것인가">
       <created>1742298338230</created>
@@ -606,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760104971239</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="P2118_두_개의_탑">
+      <created>1760110185220</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1760110185220</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="P1941_소문난칠공주" />
     <MESSAGE value="서울에위치한식당목록출력하기.sql" />
     <MESSAGE value="가장비싼상품구하기.sql" />
     <MESSAGE value="자동차평균대여기간구하기.sql" />
@@ -649,7 +649,8 @@
     <MESSAGE value="P72410_신규_아이디_추천" />
     <MESSAGE value="P150370_개인정보_수집_유효기간" />
     <MESSAGE value="P2343_기타_레슨" />
-    <option name="LAST_COMMIT_MESSAGE" value="P2343_기타_레슨" />
+    <MESSAGE value="P2118_두_개의_탑" />
+    <option name="LAST_COMMIT_MESSAGE" value="P2118_두_개의_탑" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
