@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P1939_중량제한">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P20437_문자열_게임2.java" afterDir="false" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P20437_문자열_게임2">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P14719_빗물.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,9 +76,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P20437_문자열_게임2">
-    <configuration name="P14267_회사_문화1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14267_회사_문화1" />
+  <component name="RunManager" selected="Application.P14719_빗물">
+    <configuration name="P14719_빗물" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P14719_빗물" />
       <module name="coding-test-light" />
       <extension name="coverage">
         <pattern>
@@ -144,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P14719_빗물" />
         <item itemvalue="Application.P20437_문자열_게임2" />
         <item itemvalue="Application.P1939_중량제한" />
         <item itemvalue="Application.P2118_두_개의_탑" />
@@ -264,14 +265,7 @@
       <workItem from="1756994549437" duration="4895000" />
       <workItem from="1757224496099" duration="74000" />
       <workItem from="1760007764558" duration="2764000" />
-      <workItem from="1760617215322" duration="5689000" />
-    </task>
-    <task id="LOCAL-00144" summary="P2473_세_용액">
-      <created>1742985689901</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1742985689902</updated>
+      <workItem from="1760617215322" duration="7247000" />
     </task>
     <task id="LOCAL-00145" summary="P5557_1학년">
       <created>1742990501179</created>
@@ -609,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760114949933</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="P20437_문자열_게임2">
+      <created>1760623368763</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1760623368764</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,7 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="가장비싼상품구하기.sql" />
     <MESSAGE value="자동차평균대여기간구하기.sql" />
     <MESSAGE value="DATETIME에서_DATE로_형변환.sql" />
     <MESSAGE value="카테고리별_상품_개수_구하기.sql" />
@@ -652,7 +652,8 @@
     <MESSAGE value="P2343_기타_레슨" />
     <MESSAGE value="P2118_두_개의_탑" />
     <MESSAGE value="P1939_중량제한" />
-    <option name="LAST_COMMIT_MESSAGE" value="P1939_중량제한" />
+    <MESSAGE value="P20437_문자열_게임2" />
+    <option name="LAST_COMMIT_MESSAGE" value="P20437_문자열_게임2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
