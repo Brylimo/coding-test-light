@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="P14719_빗물" />
+    <list default="true" id="d62a4ff6-ac1b-4852-876e-e7feec6a3d8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/P11909_배열탈출.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P14719_빗물">
+  <component name="RunManager" selected="Application.P11909_배열탈출">
+    <configuration name="P11909_배열탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.P11909_배열탈출" />
+      <module name="coding-test-light" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P14719_빗물" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.P14719_빗물" />
       <module name="coding-test-light" />
@@ -126,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2343_기타_레슨" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.P2343_기타_레슨" />
-      <module name="coding-test-light" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P11909_배열탈출" />
         <item itemvalue="Application.P14719_빗물" />
         <item itemvalue="Application.P20437_문자열_게임2" />
         <item itemvalue="Application.P1939_중량제한" />
         <item itemvalue="Application.P2118_두_개의_탑" />
-        <item itemvalue="Application.P2343_기타_레슨" />
       </list>
     </recent_temporary>
   </component>
@@ -264,13 +267,8 @@
       <workItem from="1760007764558" duration="2764000" />
       <workItem from="1760617215322" duration="8127000" />
       <workItem from="1760847882471" duration="56000" />
-    </task>
-    <task id="LOCAL-00146" summary="Solved_3124_최소_스패닝_트리">
-      <created>1743081862339</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1743081862339</updated>
+      <workItem from="1760969040040" duration="681000" />
+      <workItem from="1761962586309" duration="2639000" />
     </task>
     <task id="LOCAL-00147" summary="Solved_2383_점심_식사_시간">
       <created>1743090452203</created>
@@ -608,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760625035168</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="P43163_단어_변환">
+      <created>1760969113126</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1760969113126</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DATETIME에서_DATE로_형변환.sql" />
     <MESSAGE value="카테고리별_상품_개수_구하기.sql" />
     <MESSAGE value="특정_옵션이_포함된_자동차_리스트_구하기.sql" />
     <MESSAGE value="P2665_미로만들기" />
@@ -651,7 +655,8 @@
     <MESSAGE value="P1939_중량제한" />
     <MESSAGE value="P20437_문자열_게임2" />
     <MESSAGE value="P14719_빗물" />
-    <option name="LAST_COMMIT_MESSAGE" value="P14719_빗물" />
+    <MESSAGE value="P43163_단어_변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="P43163_단어_변환" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1244,6 +1249,11 @@
           <url>file://$PROJECT_DIR$/src/Baekjoon/P14719_빗물.java</url>
           <line>33</line>
           <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon/P11909_배열탈출.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="459" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
